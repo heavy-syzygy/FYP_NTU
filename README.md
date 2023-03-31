@@ -1,5 +1,5 @@
 # FYP_NTU
-FYP Project on ABSA
+FYP Project on ABSA using GPT-3 by OpenAI
 
 ## Experiments
 All experiemnts can be found under Experiments folder.
@@ -12,3 +12,9 @@ Using the webapp:
 3) To start the app, in cmd, specify the file directory to app.py and enter py app.py.
 
 Limitations to note are rate limits and token limits of the GPT-3 so the data size cannot be too large.
+
+
+
+## References for code:
+1) GPT-3 usage: https://github.com/mpangrazzi/absa_poc_pipeline
+2) Loading Screen: https://github.com/3E5F/flask_loading_screen
