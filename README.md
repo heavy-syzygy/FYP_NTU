@@ -2,7 +2,7 @@
 FYP Project on ABSA using GPT-3 by OpenAI
 
 ## Experiments
-All experiemnts can be found under Experiments folder.
+All experiemnts can be found under experiments folder.
 For more info: See fyp_report.pdf
 
 ## WebApp
