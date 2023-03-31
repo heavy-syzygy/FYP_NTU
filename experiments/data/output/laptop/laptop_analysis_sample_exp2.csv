@@ -1,0 +1,11 @@
+,index,category,aspect,segment,sentiment,review_id
+0,786,Operation_Performance,Games,I've loaded a number of games,positive,665
+1,153,Operation_Performance,Downloading textbooks,to download his high school textbooks,positive,120
+2,957,Design_Features,Screen,but this screen is really good,positive,798
+3,333,Design_Features,Chromebook,the initial feel for this chromebook is superb,positive,265
+4,763,Price,Return,i had to spend over $ 160 to return it,negative,644
+5,462,Design_Features,Aesthetics,its very aesthetically pleasing,positive,378
+6,227,Operation_Performance,Games,you can play 2015 and below games on this computer,positive,186
+7,223,General,Usefulness,i didn't think i would use it but i definitely will in the future,positive,183
+8,510,Design_Features,App,unless the app is specifically designed to access google drive files,negative,415
+9,625,Operation_Performance,Computer,this is by far and away the worst computer i have ever purchased,negative,516

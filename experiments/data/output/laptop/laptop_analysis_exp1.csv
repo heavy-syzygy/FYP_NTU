@@ -1,0 +1,1225 @@
+category,aspect,segment,sentiment,review_id
+Price,Laptop,the unit cost $ 275 to start with,negative,0
+Price,Laptop,it is not worth repairing,negative,0
+Design_Features,Size,11 inches seems too small for me,negative,1
+Operation_Performance,Hard_Disc,not a true ssd drive in there but emmc,negative,2
+Operation_Performance,Hard_Disc,which makes a difference,negative,2
+Operation_Performance,Tablet_Mode,the computer has difficulty switching between tablet and computer,negative,3
+Operation_Performance,OS,i updated the chrome os,positive,4
+Usability,OS,chrome doesn ' t work the same with a chromebook as it does with windows,negative,5
+Operation_Performance,OS,hopefully in 10 years they ' ll have this figured out,neutral,6
+Operation_Performance,OS,it won ' t suck so badly,negative,6
+General,Laptop,bought this last year on july,positive,7
+Usability,Keyboard,i rarely use the keyboard,negative,8
+Price,Laptop,great price for a touchscreen chromebook,positive,9
+Operation_Performance,Software,it is glitchy,negative,10
+Operation_Performance,Software,barely usable,negative,10
+Operation_Performance,Touchpad,the touch pad failed to work consistently,negative,11
+Usability,Keyboard,i often find i ' ve typed an entire sentence ( or more ) with my fingers on the wrong keys,negative,12
+Usability,Keyboard,which is very unproductive when trying to take real - time notes in a meeting,negative,12
+Operation_Performance,Device,i know it only takes a few seconds,negative,13
+Operation_Performance,Device,but a new device should not be doing this,negative,13
+Operation_Performance,Device,makes me question if it ' ll get worse in the future,negative,13
+Operation_Performance,Trackpad,i also have to press the trackpad very hard for left click,negative,14
+Operation_Performance,Trackpad,i lost right click functionality on the track pad 2 days into my voyage with this thing,negative,14
+Operation_Performance,Battery,"i tried factory resetting after i updated the os , and it still drained 9 % over 8 hours",negative,15
+Connectivity,Ports,hdmi out doesn ' t work right,negative,16
+Quality,Shipping,they had it over a week and then shipped back,negative,17
+Operation_Performance,Touchscreen,the touchscreen did n ' t work at all on tablet mode,negative,18
+Quality,Acer,major defect,negative,19
+Quality,Acer,has n ' t resolved,negative,19
+General,Laptop,i bought this for my daughter to use to take online classes,positive,20
+Quality,Multimedia_Devices,decent sound quality,positive,21
+Connectivity,Power_Supply,flimsy power adapter,negative,22
+Connectivity,WiFi,wi - fi slows down to crowl,negative,23
+Connectivity,WiFi,speeds back up intermittently,positive,23
+General,Laptop,regret buying it at times,negative,24
+Operation_Performance,Power_Supply,it just turned off and will not turn back on,negative,25
+Quality,Support,the customer support is horrible,negative,26
+Quality,Product,the product is great,positive,26
+Quality,Support,called support a second time,negative,27
+Quality,Support,after 10 minutes of verifying some type of info,negative,27
+Quality,Support,they told me to call google without even trying to help,negative,27
+Operation_Performance,Storage,"terrible for loading , storing , and editing pictures",negative,28
+Quality,Company,i have sent it in twice already,negative,29
+Quality,Company,waiting for it to come back,negative,29
+Design_Features,Display,the screen looked great,positive,30
+Connectivity,Charging,no matter how many times i reinserted the charging adapter,negative,31
+Connectivity,Charging,i kept getting this message,negative,31
+Operation_Performance,CPU,"i had no option but to shut down the computer , unplug it , plug it back in , and then reboot",negative,32
+Operation_Performance,Laptop,it has worked well,positive,33
+Operation_Performance,Laptop,initial hiccup on turning it on,negative,33
+Operation_Performance,Display,the screen flashes for a second every 30 seconds or so,negative,34
+Operation_Performance,Battery,the battery went down to 67 % for no reason,negative,35
+Operation_Performance,Fans&Cooling,the fan kicks in pretty often,negative,36
+Operation_Performance,Fans&Cooling,the sound is annoying,negative,36
+Design_Features,Display,nano edge display is nice,positive,37
+General,Laptop,everything was fine,positive,38
+Quality,Multimedia_Devices,the audio is almost impossible to hear,negative,39
+Operation_Performance,CPU,it is slow to do everything,negative,40
+Operation_Performance,Games,it is doing a terrible job running dragon age,negative,41
+Design_Features,Keyboard,it doesn ' t has backlit keyboard,negative,42
+Design_Features,Keyboard,typing in low light is such a pain,negative,42
+Operation_Performance,CPU,very disappointed in how slow it seems,negative,43
+Operation_Performance,Keyboard,keyboard and mouse pad seem fine,positive,44
+Operation_Performance,CPU,overall it seems strangely slow,negative,44
+Time,Laptop,i have been using this for just 3 months,positive,45
+Operation_Performance,Keyboard,crazy keypad,negative,46
+Design_Features,Construction,the laptop has a solid feel to it,positive,47
+Quality,Product,i purchased a ' new ' product,positive,48
+Quality,Product,they sent me a refurbished one instead,negative,48
+Quality,Shipping,"i ' m out from us , i live in colombia , and maybe i can not return these laptop",negative,49
+Operation_Performance,CPU,"i like the speed , the processor",positive,50
+Design_Features,Storage,the hybrid storage units ( 128ssd and 1tera ),positive,50
+General,Webcam,"the web cam sucks , really poor resolution",negative,50
+Design_Features,Keyboard,the keyboard doesn ' t have the numerical part,negative,50
+Design_Features,Keyboard,the caps lock or num lock don ' t have any light or guide to help you,negative,50
+Portability,Laptop,lightweight,positive,51
+Design_Features,Display,the backlight went out,negative,52
+Quality,Laptop,it was brand new out of the box,positive,53
+Quality,Warranty,now i have to deal with warranty stuff and sending it back etc .,negative,54
+Design_Features,Memory,ram upgrade available for a reasonable price,positive,55
+Design_Features,Hard_Disc,hard drive upgrade available for purchase and installation,positive,56
+Operation_Performance,Touchpad,the touchpad sticking or not responding to click correctly,negative,57
+Operation_Performance,Laptop,it ' s still a mainly functional computer,positive,58
+Operation_Performance,Laptop,but using it is just not the greatest,negative,58
+General,Laptop,we ' ve had the computer for 5 weeks,negative,59
+General,Laptop,used it a total of less than 20 hours,negative,59
+General,Laptop,now it will be gone for 3 weeks,negative,59
+Quality,Warranty,i send it to asus warranty,positive,60
+Quality,Warranty,after a week they ' re sending it back stating the no problem was found,positive,60
+Operation_Performance,Display,display stop working within 2 months,negative,61
+Quality,Support,"since it came with no user manual , i had to call asus customer support",negative,62
+Quality,Support,got someone who knew all about windows 10 software but nothing about my asus notebook,negative,62
+General,Reviews,after reading all the bad reviews,negative,63
+Operation_Performance,Touchpad,has a non - functioning touchpad,negative,64
+Quality,Screen,my screen broke when just putting a textbook on it,negative,65
+Quality,Support,don ' t even bother calling customer support,negative,66
+Quality,Support,"in my experience , they do you no good",negative,66
+Design_Features,Keyboard,keyboard needs to be redesigned entirely,negative,67
+Design_Features,Display,screen is big enough to read with ease,positive,68
+Portability,Laptop,item itself is light enough to tote to meetings,positive,68
+General,Laptop,this looks as if it meets my needs as a good ` ` work machine . ` `,positive,69
+Quality,Lifespan,after exactly one year of useage this computer completely stopped working,negative,70
+Operation_Performance,Startup,it boots up in 10 seconds,positive,71
+Operation_Performance,Startup,shuts down in 2 to 3 seconds,positive,71
+Design_Features,Keyboard,the keyboard lights up,positive,72
+Design_Features,Keyboard,has a ` ` time out ` ` feature to shut off,positive,72
+Quality,Construction,it seems put together well,positive,73
+Operation_Performance,CPU,"what they lack in size , they make up for in raw speed",positive,74
+Operation_Performance,CPU,durability,positive,74
+Operation_Performance,CPU,energy efficiency,positive,74
+Connectivity,Ports,decent quantity of available ports,positive,75
+Design_Features,Optical_Drives,it has a dvd drive,positive,76
+Operation_Performance,Laptop,it runs hot,negative,77
+Operation_Performance,Temperature,running grid benchmark,negative,78
+Operation_Performance,Temperature,it got to a high 92 / 93 degrees c,negative,78
+Design_Features,Processor,new i5 mobile processor,positive,79
+Design_Features,Memory,"4 gb ram , which is expandable",positive,79
+Design_Features,Display,the screen is a good size,positive,79
+Design_Features,Memory,ddr4 ram that is upgradable,positive,80
+Operation_Performance,Battery,very decent battery life,positive,81
+General,Laptop,i am pleasantly impressed with this unit,positive,82
+General,Laptop,this is the best laptop i ' ve ever had,positive,83
+Operation_Performance,Battery,i ' ve been using it for at least 4 hours since last charged in that 23 % used up,negative,84
+Design_Features,Keyboard,the keyboard backlight turns off after just a few seconds of not typing,negative,85
+Usability,Hardware,easily upgradeable ram,positive,86
+Usability,Hardware,easily upgradeable ssd,positive,86
+Design_Features,Touchpad,the ability to disable the touchpad from the keyboard,positive,87
+General,Laptop,it ' s not fancy,neutral,88
+General,Laptop,it ' s good value and fast and trouble - free,positive,88
+Usability,Out_of_Scope,after spending some time with it,positive,89
+Usability,Out_of_Scope,the feature can really be useful,positive,89
+Usability,Hardware,easily upgrade to storage and ram,positive,90
+Operation_Performance,GPU,the mx150 is enough for my needs,positive,91
+Operation_Performance,Hard_Disc,solid state drive,positive,92
+Operation_Performance,Hard_Disc,boot up and get onto internet in 10 to 15 seconds,positive,92
+Operation_Performance,Gaming,it ' s not a ` ` gaming ` ` laptop,negative,93
+Operation_Performance,Gaming,it can do some more casual gaming,positive,93
+Operation_Performance,CPU,it ' s super fast,positive,94
+Operation_Performance,CPU,boots up in seconds,positive,94
+General,Laptop,i am very impressed with this system,positive,95
+Operation_Performance,Software,mastercam itself runs pretty good,positive,96
+Quality,Shipping,amazon was great about returning it,positive,97
+Design_Features,Display,screen is decent,positive,98
+Design_Features,Display,not great,negative,98
+Design_Features,Display,it is matte finished,positive,98
+Design_Features,Keyboard,i like the back lit keyboard,positive,99
+Price,Laptop,it ' s a lot of good for a comparatively cheap price,positive,100
+Design_Features,Display,the screen is perfectly adequate,positive,101
+Operation_Performance,Startup,this thing boots up super quick,positive,102
+Design_Features,Laptop,it sleek and beautiful,positive,102
+Usability,OS,google and partners have done great with chromebooks,positive,103
+Usability,OS,have plenty of features to accommodate,positive,103
+Recommendation,Laptop,i would highly recommend this to anyone,positive,104
+Recommendation,Laptop,"especially to someone wanting something that is affordable , easy to use and just a bit more than a tablet",positive,104
+Usability,Touchpad,i ' m getting very used to the multiple finger shortcuts on the touch pad when navigating chrome,positive,105
+General,Laptop,this thing is still fantastic,positive,106
+Price,Laptop,inexpensive,positive,107
+Price,Laptop,$ 189 . 00,positive,107
+General,Laptop,i couldn ' t be happier with this product,positive,108
+Design_Features,Hinge,the screen hinge is super strong,positive,109
+Design_Features,Hinge,it ' s hard to imagine it breaking unless you dropped it,positive,109
+Portability,Size,the size is perfect,positive,110
+Portability,Size,it ' s easy to toss it in my satchel or backpack along with my textbook and notebooks,positive,110
+Operation_Performance,Laptop,works great right out of the box,positive,111
+Operation_Performance,Battery,the battery life on this seems good,positive,112
+Connectivity,WiFi,this chromebook instantly connects to the internet,positive,113
+Connectivity,WiFi,"going to a grocery store or fitness center , the android tablets took so long to connect",negative,114
+General,Laptop,everything is perfect,positive,115
+Operation_Performance,Battery,great battery life,positive,116
+Operation_Performance,Keyboard,great keyboard,positive,116
+Design_Features,Laptop,amazing features,positive,116
+General,Laptop,i ' m much happier with this,positive,117
+General,Company,samsung chromebook,positive,118
+General,Company,i will continue to use this brand,positive,118
+Operation_Performance,CPU,does not act like a tablet,negative,119
+Operation_Performance,CPU,it can have almost 10 tabs open before affecting performance,positive,119
+Usability,Downloading,to download his high school textbooks for use,positive,120
+Price,Laptop,great price for a good book,positive,121
+General,Laptop,i bought this refurbished,positive,122
+General,Laptop,haven ' t experienced any issues,positive,122
+Usability,Laptop,this laptop is very straight forward,positive,123
+General,Laptop,"otherwise , it ' s great",positive,124
+Security,OS,secure os,positive,125
+General,Product,the product itself is awesome,positive,126
+General,Laptop,great little laptop,positive,127
+General,Tablet,great little tablet,positive,127
+General,Chromebook,the chormebook works as described by seller,positive,128
+Design_Features,Size,i like the size,positive,129
+Design_Features,Features,i like the features,positive,129
+Value,Laptop,cheap,positive,130
+Value,Laptop,decently rugged,positive,130
+Value,Laptop,light weight notebook,positive,130
+Design_Features,Keyboard,love the keyboard,positive,131
+Usability,Chromebook,i am still getting use to the chromebook,neutral,132
+Portability,Chromebook,lightweight easy to bring with me,positive,132
+Portability,Chromebook,doesnt take up much room,positive,132
+General,Laptop,i purchased this,positive,133
+General,Laptop,i would definitely purchase again,positive,133
+Usability,OS,since it is the same platform used at school,positive,134
+Usability,OS,the navigation was easy to get used too,positive,134
+Usability,Internet,great for going on the internet,positive,135
+Operation_Performance,Laptop,it works well for her,positive,136
+Operation_Performance,Graphics,we ran world of tank blitz ( using a game controller ) and roblocks on the low rez settings and experienced great appearance and ability to play,positive,137
+Quality,Multimedia_Devices,the speaker isn ' t loud,negative,138
+General,Laptop,love it !,positive,139
+Operation_Performance,Battery,great battery life,positive,140
+Portability,Laptop,easy to take with,positive,141
+Portability,Laptop,do homework on the go too,positive,141
+General,Laptop,i would recommend it to anyone,positive,142
+General,Laptop,this is perfect,positive,143
+Operation_Performance,Battery,battery life,positive,144
+Operation_Performance,CPU,speed,positive,144
+Design_Features,Display,display,positive,144
+Operation_Performance,Software,software,positive,144
+Design_Features,Display,the display is crisp and bright,positive,145
+Operation_Performance,Battery,lasts forever,positive,145
+Operation_Performance,CPU,its fast,positive,145
+Price,Laptop,cheap,positive,145
+General,Laptop,nice,positive,146
+General,Chromebook,i love my chromebook,positive,147
+Usability,Keyboard,"the small , tight keyboard",negative,148
+General,Laptop,high quality laptop,positive,149
+Quality,Shipping,delivery was a bit off,negative,150
+Quality,Shipping,i blame usps on that,negative,150
+Operation_Performance,CPU,amd a12 processor is quite fast,positive,151
+Operation_Performance,CPU,when loading everything from an ssd,positive,151
+Design_Features,Construction,not much flex in the body,positive,152
+Portability,Laptop,light for its size,positive,152
+General,Laptop,stop what you ' re doing now and get this computer !,positive,153
+Price,Laptop,the best thing you can get under 400 dollars,positive,154
+Operation_Performance,CPU,great functioning computer,positive,155
+General,Laptop,excellent laptop,positive,156
+Price,Laptop,reasonable price,positive,156
+General,Laptop,this laptop does all i need it to do,positive,157
+Operation_Performance,Battery,decent battery life,positive,158
+Operation_Performance,Laptop,works flawlessly,positive,158
+General,Laptop,excelente laptop,positive,159
+Operation_Performance,Graphics,great for graphics,positive,160
+Operation_Performance,Graphics,nothing to complex but it can get the job done,positive,160
+General,Laptop,about what i was expecting / hoping it to be,positive,161
+Operation_Performance,CPU,it has been able to handle everything i ' ve needed,positive,162
+Operation_Performance,CPU,it is fast enough for what we do,positive,163
+Price,Laptop,it has all the features we needed for less,positive,163
+General,Laptop,love our new laptop,positive,164
+Operation_Performance,Battery,battery could last longer,negative,165
+Portability,Laptop,light weight,positive,166
+Operation_Performance,Battery,good battery life,positive,166
+Design_Features,Display,sharp screen,positive,166
+General,Laptop,he is very content with it,positive,167
+General,Laptop,its features,positive,167
+Operation_Performance,CPU,great performance,positive,168
+Operation_Performance,CPU,quiet and cool processor,positive,168
+Operation_Performance,Graphics,the sims 4 ran very smoothly on regular graphics,positive,169
+General,Laptop,i was really excited to get this laptop,positive,170
+Operation_Performance,Games,runs first person shooters relatively well,positive,171
+General,Laptop,would definitely buy this again,positive,172
+Usability,OS,laptop booted right up,positive,173
+Usability,OS,the set up waa super easy,positive,173
+Design_Features,Keyboard,"the ones that do , doesn ' t have the numbering pad on the right side of the keyboard",negative,174
+General,Laptop,it ' s a very good lappy,positive,175
+General,Laptop,i ' m happy with it,positive,175
+General,Laptop,"because it can still get all i need to do , done",positive,175
+Design_Features,Optical_Drives,surprised it has a dvd player in it,positive,176
+Portability,Laptop,nice and thin,positive,176
+Portability,Laptop,light,positive,176
+Operation_Performance,Battery,battery life is much shorter than they advertise,negative,177
+Operation_Performance,Screen,mine did lose its screen backlight suddenly,negative,178
+Operation_Performance,CPU,fast processor,positive,179
+Recommendation,Laptop,if you want a laptop,positive,180
+Operation_Performance,Battery,i think the battery is just undersized for the amd a12 apu,negative,181
+General,Laptop,this is an excellent laptop,positive,182
+Design_Features,Optical_Drives,the dvd player is a really nice touch,positive,183
+Design_Features,Optical_Drives,i definitely will in the future,positive,183
+Connectivity,Ports,has all the available ports that i need,positive,184
+Operation_Performance,CPU,laptop is very fast with 4cpu,positive,185
+Operation_Performance,GPU,8gpu on board,positive,185
+Operation_Performance,Games,you can play 2015 and below games on this computer,positive,186
+General,Laptop,great laptop,positive,187
+General,Laptop,we are all pleased with our purchase,positive,188
+Operation_Performance,CPU,cpu performance does well,positive,189
+Usability,Laptop,i bought this for college to do my homework,positive,190
+Usability,Laptop,also pay my bills,positive,190
+General,Laptop,really like it,positive,191
+Operation_Performance,Graphics,played heroes of the storm with graphics up full,positive,192
+Operation_Performance,Graphics,wasn ' t any lag,positive,192
+Operation_Performance,Web_Browser,webpages load quickly,positive,193
+Operation_Performance,CPU,"i guess , it ' s got a lot of power going to that processor",positive,194
+Operation_Performance,CPU,you can ' t have it all,negative,194
+General,Laptop,"for us , it was perfect",positive,195
+General,Online_Ordering,my first ever online computer / laptop order,positive,196
+General,Online_Ordering,pretty good,positive,196
+Design_Features,Laptop,i love how sleek and thin it is,positive,197
+Design_Features,Keyboard,great feel to the keyboard,positive,198
+Operation_Performance,CPU,super fast computer,positive,199
+General,Laptop,it ' s so far a solid laptop,positive,200
+Quality,Keyboard,i already have a couple of keys popping off,negative,201
+Operation_Performance,Battery,"i almost always keep it plugged in , so i can ' t comment on battery life",neutral,202
+Operation_Performance,Battery,battery life is short,negative,203
+Operation_Performance,Battery,plugging it in works,positive,203
+Design_Features,Laptop,sleek design,positive,204
+Usability,OS,easy to use,positive,205
+General,Laptop,nice computer for responsible grade school child,positive,206
+Design_Features,Laptop,this laptop is well engineered and designed,positive,207
+General,Laptop,this is a very nice laptop,positive,208
+General,Laptop,it is perfect for everything i need it for,positive,209
+Value,Laptop,provided just what i wanted,positive,210
+Value,Laptop,at a reasonable price,positive,210
+Operation_Performance,Laptop,this laptop is fast,positive,211
+Operation_Performance,Laptop,does what i need without problems,positive,211
+Price,Laptop,great price,positive,212
+Operation_Performance,Laptop,great performance,positive,212
+Operation_Performance,Battery,terrible battery,negative,212
+Operation_Performance,CPU,it is a little slow,negative,213
+General,Laptop,great computer,positive,214
+Usability,Setup,setup was fast and easy,positive,214
+Design_Features,Size,nice size 15 . 6 inches,positive,215
+Operation_Performance,Graphics,graphics are good for the level of this laptop,positive,216
+Quality,Warranty,got the warranty honored,positive,217
+Quality,Touchscreen,plenty of buyer returned it since the touch screen has phantom touch problems right after unboxing,negative,218
+Quality,Touchscreen,or it will eventually happen within 3 months,negative,218
+Usability,Screen,my otherwise great chromebook becomes unusable anytime the phantom touches appear,negative,219
+Operation_Performance,Screen,i have tried to fix the pixel,negative,220
+Operation_Performance,Screen,with online videos and websites with no effect,negative,220
+Design_Features,Display,the beautiful screen,positive,221
+Design_Features,Display,"identical to the pixelbook in size , aspect ratio , and resolution",positive,221
+Design_Features,Display,after using the 3 : 2 aspect ratio,positive,222
+Design_Features,Display,i think i prefer it to normal 16 : 9,positive,222
+Operation_Performance,Laptop,it was fine for a solid two days,positive,223
+Operation_Performance,Laptop,"from there on it has been nonstop , reset to factory settings",negative,223
+Operation_Performance,Hardware,"idk if that ' s how chromeos usually is , or maybe there is something wrong with the hardware",negative,224
+Operation_Performance,Hardware,this is very annoying,negative,224
+Operation_Performance,Software,i get that this is meant to store everything in the cloud,positive,225
+Operation_Performance,Software,google docs works offline,positive,225
+Operation_Performance,Software,it is practically useless when it has to reset itself to factory settings just after turning it on,negative,225
+Operation_Performance,Touchscreen,the touch screen works wonderfully,positive,226
+Design_Features,Keyboard,the backspace key is small,negative,227
+Design_Features,Display,the screen is not very durable,negative,228
+Operation_Performance,Battery,"hard reboot , reset , refresh + power , esc + refresh + power , charging , letting it drain , nothing brought it back to life",negative,229
+Quality,Device,being 0 / 2 on such an expensive device leaves a bad taste,negative,230
+Design_Features,Screen,gorgeous screen,positive,231
+Design_Features,Size,small profile,positive,231
+Design_Features,Weight,lightweight,positive,231
+Design_Features,Stylus,built in stylus,positive,231
+General,Reviews,this review might be dismissed,negative,232
+General,Reviews,missing the ` ` verified purchase ` ` stamp,negative,232
+Usability,OS,i wouldn ' t recommend this as a starting computer for children because they ' d learn incorrect navigation,negative,233
+General,Laptop,dont buy it,negative,234
+Design_Features,Display,the screen does look good,positive,235
+Quality,Apps,terrible quality,negative,236
+Quality,Apps,not really enjoyable to use apps,negative,236
+Operation_Performance,Battery,battery life its ok,neutral,237
+Design_Features,Keyboard,just how easy it is to misfire unless you land dead nuts center in the middle of the key on your stroke,negative,238
+Operation_Performance,Software,android app support,negative,239
+Operation_Performance,Software,which simply isn ' t ready for prime time,negative,239
+Usability,OS,i didn ' t find a single android app that was optimized for chrome os,negative,240
+Usability,OS,so was disappointed pretty much every time,negative,240
+Operation_Performance,Battery,battery life was mediocre,negative,241
+Quality,Company,amazon gave me the option of returning for refund or trying to have it repaired,positive,242
+Operation_Performance,Battery,battery is good,positive,243
+Design_Features,Display,display and keyboard are pretty great,positive,243
+Design_Features,Tablet,there ' s nothing ` ` pro ` ` about this tablet,negative,244
+Quality,OS,unless it ' s a really bad baby and chromeos + samsung = bad baby !,negative,245
+Usability,OS,sounds nice,positive,246
+Usability,OS,your computer just doesn ' t let you do things and then calls it secure,negative,246
+Design_Features,Keyboard,the keyboard lacks a backlight,negative,247
+Design_Features,Keyboard,which is inconvenient in low light situations,negative,247
+Value,Chromebook,you ' re getting a fairly impressive value proposition here with this chromebook,positive,248
+Price,Laptop,$ 300,positive,249
+Price,Laptop,this is a great purchase,positive,249
+Value,Laptop,the omnipresent comments about ` ` this feels like a $ 1000 computer ! ` `,positive,250
+General,Laptop,this isn ' t say the acer is bad in the abstract,negative,251
+General,Laptop,far from it,negative,251
+Design_Features,Trackpad,"nice , oversize trackpad",positive,252
+Design_Features,Trackpad,responsive and a pleasure to use,positive,252
+Operation_Performance,Battery,it meets the 10 - 12 hour battery life promise,positive,253
+Operation_Performance,CPU,the performance never lags,positive,253
+Design_Features,Keyboard,decent keyboard,positive,254
+Design_Features,Keyboard,much better tactile properties,positive,254
+Design_Features,Laptop,nice aluminum shell,positive,254
+Design_Features,Optical_Drives,lack of a card reader / writer,negative,255
+General,Laptop,i love it,positive,256
+Operation_Performance,CPU,this isn ' t a powerhouse,negative,257
+Operation_Performance,CPU,i ' ve never pushed it,negative,257
+Operation_Performance,CPU,it probably wouldn ' t handle the 20 + tabs over multiple windows / desktops,negative,257
+Operation_Performance,CPU,for 99 % of ` ` regular people ` ` this is an unbelievably good laptop,positive,257
+Operation_Performance,Battery,the battery life is incredible,positive,258
+Operation_Performance,Battery,charges from 0 % to 100 % in about an hour and a half while in use,positive,258
+Operation_Performance,Laptop,"overall , it performs well enough for my daily internet needs",positive,259
+Operation_Performance,CPU,a little more quick / less laggy,negative,260
+Usability,OS,little bit of a learning curve with chrome os,neutral,261
+Operation_Performance,Software,the play store does not recognize this devise at this time,negative,262
+General,Laptop,chromebook seems like the kind of device that you review after a few weeks,positive,263
+Operation_Performance,Laptop,"by the time anything happens to it that affects use , the replacement will be just as much or cheaper , twice as powerful",positive,263
+Connectivity,Ports,the hdmi and usb ports are on the left side,negative,264
+Connectivity,Ports,the back has no ports at all,negative,264
+Design_Features,Chromebook,the initial feel for this chromebook is superb,positive,265
+Operation_Performance,CPU,the quad - core celeron n3160 gets a respectable near - 8000 octane score,positive,266
+Design_Features,Laptop,"this is a solid , well - balanced design",positive,267
+Usability,OS,first time chromebook user,positive,268
+General,Laptop,this has been my favorite laptop ever,positive,268
+Operation_Performance,Chromebook,i ' m been quite pleased at how well the chromebook has worked,positive,269
+Operation_Performance,Software,chromeos is a decent thin - client operating system,positive,270
+Operation_Performance,Software,which can do more than most people think,positive,270
+Price,Laptop,i was hesitant at first because of the price,negative,271
+Price,Laptop,this is honestly an amazing machine,positive,271
+Design_Features,Laptop,this is a really aesthetically pleasing machine,positive,272
+General,Laptop,several growth opportunities for this model,positive,273
+Design_Features,Trackpad,the trackpad feels a bit delicate,negative,274
+Operation_Performance,Battery,the battery is good,positive,275
+Usability,Laptop,"if you are looking for a laptop to check emails , watch movies , to shop , basic documentation , then this is an ideal one",positive,276
+Usability,OS,i have had q & a on this chromebook asking if it will download ms office,neutral,277
+Operation_Performance,Battery,battery seems to be pretty good,positive,278
+Operation_Performance,CPU,with the slow celeron processor,negative,279
+Operation_Performance,CPU,browsing does not feel snappy,negative,279
+General,Chromebook,this is my second chromebook,positive,280
+General,Chromebook,my next purchase will be a chromebase to replace my home pc,positive,280
+Operation_Performance,CPU,is surprisingly fast,positive,281
+Usability,OS,this doesn ' t support google play store,negative,282
+Operation_Performance,Games,i ' m able to play the sims 4 and world of warcraft on very high settings with no problems at all,positive,283
+General,Laptop,this is a huge plus,positive,284
+Operation_Performance,Hard_Disc,drives are now solid state drive,positive,285
+Design_Features,Multimedia_Devices,new built - in speakers,positive,286
+Design_Features,Optical_Drives,no dvd drive,negative,287
+Usability,OS,i couldn ' t drag - and - drop items in it,negative,288
+Usability,OS,"after i changed the behavior in settings , everything went well from there",positive,288
+Portability,Laptop,pretty light,positive,289
+Design_Features,Display,very sharp screen,positive,290
+Design_Features,Display,good viewing angles,positive,290
+Design_Features,Display,something about os x running with a high resolution display just looks classy,positive,291
+General,Laptop,no complaints here,positive,292
+Operation_Performance,CPU,this computer is blazing fast,positive,293
+Usability,OS,os x yosemite,positive,294
+Usability,OS,the os is very refined and elegant,positive,294
+Operation_Performance,Laptop,the laptop works great,positive,295
+Quality,Shipping,the package was delivered on time,positive,295
+Operation_Performance,CPU,this thing is fast,positive,296
+Operation_Performance,CPU,efficient,positive,296
+Quality,Laptop,this computer is very high quality,positive,297
+Design_Features,Display,the backlighting is comparable,positive,298
+Design_Features,Display,the mbp gets brighter,positive,298
+Connectivity,Ports,the thunderbolt ports are a nice thing to have on the mbp,positive,299
+General,Laptop,the best laptop i ' ve owned,positive,300
+General,Laptop,bought it for my grandson for college,positive,301
+General,Laptop,he loves it,positive,301
+General,Laptop,this is an excellent machine,positive,302
+Quality,Laptop,good durability,positive,303
+Operation_Performance,Laptop,outstanding performance,positive,303
+Portability,Laptop,outstanding portability,positive,303
+Operation_Performance,Response_Time,response is excellent,positive,304
+Operation_Performance,Battery,battery life appears to be excellent,positive,305
+Portability,Laptop,laptop is light,positive,306
+Design_Features,Display,the monitor is the perfect size,positive,306
+Connectivity,Ports,generous selection of ports,positive,307
+Design_Features,Laptop,"sleek and dare i say , sexy",positive,308
+Operation_Performance,CPU,i enjoy the processing speed of this model,positive,309
+Quality,Shipping,fast shipping,positive,310
+Quality,Product,product exactly as described,positive,310
+Quality,Product,authentic apple,positive,310
+Quality,Product,new,positive,310
+Quality,Product,factory sealed in box,positive,310
+Design_Features,Display,loving the sharp display,positive,311
+Design_Features,Trackpad,loving the track pad,positive,311
+Portability,Laptop,how light,positive,312
+Operation_Performance,CPU,speedy,positive,312
+General,Macbook,i love this macbook,positive,313
+General,Laptop,great product,positive,314
+General,Laptop,would recommend to anyone,positive,314
+General,Laptop,this is an amazing computer,positive,315
+Operation_Performance,Software,they put a lot of thought and work into making sure that the hardware and software work real well together,positive,316
+Price,Laptop,obviously great computer for the price,positive,317
+General,Laptop,very nice laptop,positive,318
+Portability,Laptop,i love its portable feature,positive,318
+Operation_Performance,CPU,the running speed is very fast,positive,318
+Operation_Performance,Battery,the only issue i have with it is the battery life,negative,319
+Design_Features,Laptop,it is thinner,positive,320
+Design_Features,Laptop,lighter,positive,320
+General,Laptop,awesome computer,positive,321
+Quality,Shipping,the shipping was fast,positive,322
+Quality,Seller,the seller was great,positive,322
+General,Laptop,the mac is great,positive,323
+General,Laptop,besides a chip under the mouse pad,negative,323
+Design_Features,Laptop,the design is beautiful,positive,324
+Design_Features,Trackpad,the force feedback track pad is amazing,positive,324
+Operation_Performance,CPU,the internals are a lot slower,negative,325
+General,Laptop,love this computer,positive,326
+Design_Features,Trackpad,force touch trackpad,positive,327
+Design_Features,Trackpad,pretty freakin awesome,positive,327
+Operation_Performance,Retina_Display,works like a charm,positive,328
+Operation_Performance,Retina_Display,the retina display is super gorgeous,positive,328
+Quality,Shipping,the laptop arrived in excellent condition,positive,329
+Usability,OS,i absolutely love the programs that come with it,positive,330
+Usability,OS,how the mac itself functions,positive,330
+Design_Features,Appearance,the appearance,positive,330
+Quality,Mac,the quality of the mac,positive,330
+Operation_Performance,Battery,battery life thus far isn ' t nearly as long,negative,331
+General,Macbook,this macbook is such a blessing,positive,332
+Recommendation,Macbook,"if you ' re considering getting this macbook , proceed with confidence",positive,333
+Operation_Performance,Hard_Disc,the ss hard drive has next to zero lag over traditional drives,positive,334
+General,Laptop,it ' s far away from meeting my expectations,negative,335
+Design_Features,Laptop,isn ' t bulky,positive,336
+Price,Laptop,great price,positive,337
+Quality,Customer Service,customer service,positive,337
+Connectivity,Apple_Devices,does a great job syncing up everything on all three devises,positive,338
+Operation_Performance,Laptop,laptop works perfect,positive,339
+Connectivity,Charger,used charger that only lasted a week,negative,339
+General,Laptop,awesome machine,positive,340
+Price,Apple,costs a few bucks $ $ $ more,negative,341
+Price,Apple,apple products are the best on the market,positive,341
+Operation_Performance,Battery,fantastic battery life,positive,342
+Connectivity,Ports,connecting to an hdmi tv,positive,342
+Operation_Performance,Video,great for playing videos,positive,342
+Price,Laptop,great price,positive,343
+General,Laptop,great computer,positive,344
+Quality,Shipping,no issues with the delivery,positive,345
+Quality,Laptop,no issues with the computer,positive,345
+General,Laptop,great prodcut,positive,346
+Connectivity,Ports,lack of ports,negative,347
+Connectivity,Ports,magsafe connector,negative,347
+Quality,Shipping,shipping was fast,positive,348
+Quality,Shipping,product came as described,positive,348
+Usability,OS,apple updates are easy,positive,349
+Quality,Shipping,it arrived in great condition,positive,350
+Operation_Performance,Laptop,it ' s been working perfectly for me since i got it,positive,350
+Quality,Laptop,high quality computer in every way,positive,351
+General,Laptop,i like this machine quite a bit,positive,352
+Operation_Performance,OS,the system was somewhat glitchy for the first couple of weeks,negative,353
+Operation_Performance,OS,seemed to be a problem with the chrome os,negative,353
+Operation_Performance,OS,was fixed by the next update,positive,353
+Usability,OS,took a week or so to get used to,neutral,354
+Usability,OS,but love it now,positive,354
+Design_Features,Display,screen stays in whatever position you put it solidly enough to use the touchscreen,positive,355
+Operation_Performance,Battery,battery : solid,positive,356
+Quality,Multimedia_Devices,speakers are a little tinny,negative,357
+Quality,Multimedia_Devices,it ' s not possible to customize the equalizer on the chrome os right now,negative,357
+Value,Tablet,"if you want a true tablet , buy a true tablet",positive,358
+Value,Tablet,this did honestly keep me from investing in a kindle as i was planning to,positive,358
+Design_Features,Keyboard,"i love that it is only as big as it needs to be to have a full - size keyboard ( not with a number pad , but full - sized keys )",positive,359
+Usability,OS,update it as soon as you turn it on,positive,360
+Usability,OS,my trusty windows 7 laptop was on its last leg,negative,361
+Usability,OS,i opted to try something new,positive,361
+Connectivity,Storage,it comes with 100 gb of free google drive online storage,positive,362
+Design_Features,Touchscreen,the touchscreen looks good,positive,363
+Design_Features,Touchscreen,is responsive,positive,363
+Design_Features,Keyboard,the keyboard is nice,positive,363
+Usability,OS,people who complain that chromebooks are useless without internet access clearly are narrow minded and simply not thinking outside the box,negative,364
+Operation_Performance,Software,"i went to install my favorite screenwriting app , trelby",negative,365
+Operation_Performance,Software,only to find its not available,negative,365
+Connectivity,Internet,maybe this thing does suck without an internet connection,negative,366
+Usability,Desktop,"i realized that i can use my studio desktop wherever i want , whenever i want",positive,367
+Design_Features,Button,it does make quite a loud click when you depress the button,negative,368
+General,Laptop,i like it and am happy for paying a bit over $ 200 for the 4gb model,positive,369
+Operation_Performance,Fans&Cooling,a quiet fan,positive,370
+Operation_Performance,Fans&Cooling,less device that doesn ' t heat up too much,positive,370
+General,Chromebook,i was somewhat hesitant purchasing this chromebook mainly because of some of the reviews,negative,371
+General,Return_Policy,excellent return policy,positive,372
+Operation_Performance,Sound,i downloaded pandora and listened to all my stations at 3 / 4 volume and it sounded fine,positive,373
+Operation_Performance,Software,so far all but 1 of the android apps that i have tried have functioned properly,positive,374
+Operation_Performance,Software,but some are restricted in the size of window that will work properly,negative,374
+Quality,Laptop,laptop arrived dirty,negative,375
+Quality,Laptop,grimy screen,negative,375
+Quality,Laptop,there was actual pet hair in the air vent,negative,375
+Usability,OS,i had to look up keys to press to get into a start up mode,negative,376
+Usability,OS,i am blaming mac ' s os and its glitchy services,negative,377
+General,Laptop,i am happy with it,positive,378
+Operation_Performance,Battery,the battery is ok,positive,378
+Design_Features,Laptop,its very aesthetically pleasing,positive,378
+Quality,Seller,ordered a macbook pro 13inch 256gb from this seller,negative,379
+Quality,Seller,"with the exception of the power button , the keyboard and the trackpad wasn ' t working",negative,379
+Quality,Seller,the seller ' s description is that it was ` ` tested and fully functional ` `,negative,380
+Quality,Seller,it wasn ' t,negative,380
+Quality,Laptop,apparently the laptop sold to me was missing 5 screws on the inside,negative,381
+Connectivity,Power_Supply,the charger does look great coming out of the box,positive,382
+Connectivity,Power_Supply,plan on buying another shortly thereafter,negative,382
+Quality,Support,do not waste your time calling apple to see if there is anything they can do about it after 1 year,negative,383
+Quality,Support,unless of course you want to pay even more money on ' apple care ',negative,383
+General,Macbook,as much as i love the computer,positive,384
+General,Macbook,and tout macbook to all my friends,positive,384
+General,Macbook,"for me , it stops here and now",negative,384
+Quality,Display,the anti - reflective coating will wear off,negative,385
+Quality,Display,it isn ' t covered under apple ' s warranty,negative,385
+Operation_Performance,Macbook_Pro,the macbook pro offers a very dependable machine,positive,386
+Operation_Performance,Macbook_Pro,will muddle - through anything you throw at it without complaining,positive,386
+Connectivity,Ports,2 usb ports and 2 thunderbolt ports,positive,387
+Design_Features,Hard_Disc,the ` ` ssd drive ` ` is not user replaceable,negative,388
+Connectivity,Charger,the charger is defective,negative,389
+Connectivity,Charger,after 45 days of use the charger is shot,negative,389
+Design_Features,Laptop,excellent looking laptop,positive,390
+Portability,Laptop,very light,positive,390
+Design_Features,Keyboard,i love the keyboard,positive,391
+Design_Features,Trackpad,i love the trackpad,positive,391
+Operation_Performance,Battery,the battery life is good,positive,392
+Operation_Performance,Battery,i get about 5 - 6 hours of non stop typing,positive,392
+Quality,Advertising,it ' s not stated anywhere that ' s it ' s used,negative,393
+General,Laptop,i can not believe these laptops have 5 stars,negative,394
+Operation_Performance,Laptop,it stopped booting,negative,395
+General,Laptop,my daughter loves it,positive,396
+General,Laptop,it will be a great tool to help her through nursing school,positive,396
+Quality,Company,apparently apple isn ' t even trying anymore,negative,397
+Operation_Performance,Battery,very good battery life,positive,398
+Value,Laptop,it is not worth it,negative,399
+Operation_Performance,Functionality,"i ' m still absolutely blown away how apple , a supposed industry leader , has such horrendous functionality",negative,400
+General,Laptop,i purchased this notebook back in july,positive,401
+General,Laptop,was initially happy with my purchase,positive,401
+Quality,Warranty,i then received confirmation the warranty was valid,positive,402
+Quality,Warranty,but only as a ‘ one - off ',negative,402
+Quality,Company,"asus , has a horrible reputation",negative,403
+General,Laptop,somewhat solid as a device now that 6 months of updates and delays are behind us,positive,404
+Design_Features,Display,bright enough for all uses,positive,405
+Design_Features,Display,1080p is perfect - images are sharp,positive,405
+Operation_Performance,Battery,battery life is solid,positive,406
+Operation_Performance,Battery,right around what is claimed - probably 7 to 10 hours,positive,406
+Operation_Performance,Touchscreen,touchscreen is responsive enough for gaming,positive,407
+Prediction,OS,i absolutely imagine chrome apps picking up drastically in quality and quantity now,positive,408
+Prediction,OS,since it seems like chrome os is really coming into its own this year,positive,408
+Design_Features,Display,"in tablet mode , the screen looks too ‘ tall ' to feel natural",negative,409
+Design_Features,Display,this screen ratio makes it look great in desktop mode,positive,410
+Operation_Performance,Battery,after 3 months of use the unit will no longer charge,negative,411
+Recommendation,Laptop,i would highly recommend this device,positive,412
+Operation_Performance,Graphics,second issue is with scaling of the ui,negative,413
+Design_Features,Display,the screen itself is hd 1080p,positive,414
+Design_Features,Display,most ui elements don ' t look good in this resolution,negative,414
+Operation_Performance,Software,"unless the app is specifically designed to access google drive files , the app has no way to read and save files directly to the cloud",negative,415
+Operation_Performance,Battery,great battery life,positive,416
+Quality,Multimedia_Devices,volume is incredibly low,negative,417
+General,Laptop,beautiful asus chromebook,positive,418
+Operation_Performance,Out_of_Scope,i would like a quick fix,negative,418
+Operation_Performance,Battery,one night i plugged it in and woke up to a dead chromebook,negative,419
+Portability,Laptop,it ' s too heavy to really use as a tablet,negative,420
+Operation_Performance,Network_Speed,transfer speeds ( lan to nas ) were miserably slow ( 10 - 30mbps ),negative,421
+Design_Features,Display,perfect with no backlight bleed,positive,422
+Design_Features,Display,no shimmery matte texture,positive,422
+Design_Features,Display,no uneven backlight,positive,422
+Design_Features,Display,no dead / stuck pixels,positive,422
+General,Laptop,great build quality,positive,423
+Design_Features,Display,screen resolution,positive,423
+Design_Features,Keyboard,keyboard,positive,423
+Operation_Performance,Laptop,stopped turning on,negative,423
+Connectivity,Power_Supply,it was clear this was a power _ supply issue,negative,424
+Quality,Lifespan,i might expect it to only last a year,negative,425
+Quality,Lifespan,but at this price point it ' s unacceptable,negative,425
+Usability,OS,some of the things i wanted to do with this notebook were limited by the os,negative,426
+General,Laptop,the laptop was great,positive,427
+Portability,Laptop,lightweight,positive,427
+Operation_Performance,Laptop,booted fast,positive,427
+Usability,Laptop,simple to use,positive,427
+General,Chromebook,one of the best overall chromebook lines to get,positive,428
+Quality,Customer Service,the asus customer service people are rude,negative,429
+Quality,Customer Service,have no answers,negative,429
+Connectivity,Power_Supply,the unit stopped charging,negative,430
+Quality,Company,this is the problem with companies today,negative,431
+Quality,Customer_Service,asus customer service sucks,negative,432
+Quality,Customer Service,i call customer service,negative,433
+Quality,Customer Service,first they argue and say customer damage,negative,433
+Quality,Customer Service,to try and placate me they say they have an adp accidental damage and protection plan one time for one year,negative,433
+Design_Features,Laptop,it is a beautiful,positive,434
+Design_Features,Laptop,well built laptop,positive,434
+Price,Laptop,that ' s nutty for an expensive premium product,negative,435
+Quality,Company,what the heck were you thinking when you designed this product ?,negative,436
+General,Product,i seriously love the product,positive,437
+General,Product,i may have to return it,negative,437
+Operation_Performance,Battery,i only leave it charging until it ' s full,positive,438
+Operation_Performance,Battery,the battery time is still decreasing,negative,438
+General,Chromebook,very impressed with my first chromebook,positive,439
+Usability,Tablet_Mode,i don ' t use it as much in tablet mode,negative,440
+Usability,Tablet_Mode,it is a little heavy when in that configuration,negative,440
+General,Tablet,i had high hopes,positive,441
+Operation_Performance,Software,google docs work fine,positive,442
+Operation_Performance,Gaming,"a chromebook does most of what i need , except gaming",negative,443
+Connectivity,Printer,it would not identify my printer in cloud print,negative,444
+Operation_Performance,TPM,my tpm is no longer working,negative,445
+Operation_Performance,TPM,the whole computer is useless,negative,445
+Quality,Laptop,product is sturdy,positive,446
+Quality,Laptop,lightweight,positive,446
+Quality,Laptop,fast,positive,446
+Quality,Laptop,the battery runtime was as advertised,positive,446
+Usability,Touchpad,the touchpad is very sticky,negative,447
+Usability,Screen,not at all pleasant to use,negative,448
+Usability,Screen,the screen quality is just so - so,negative,448
+Quality,Company,not buy any asus product again,negative,449
+Design_Features,Display,has a dead pixel,negative,450
+Quality,Support,i ' ve contacted amazon and asus,negative,451
+Quality,Support,no response,negative,451
+Connectivity,WiFi,this piece of crap won ' t hold a wifi signal,negative,452
+Connectivity,WiFi,has a really weak signal,negative,452
+Operation_Performance,Software,several of my chrome extensions perform poorly,negative,453
+Operation_Performance,Software,have to be disabled altogether which degrades my work production experience,negative,453
+Quality,Multimedia_Devices,the speakers on this thing are horrible,negative,454
+Operation_Performance,Battery,battery life is not good,negative,455
+Design_Features,Display,screen is very weird,negative,456
+Operation_Performance,CPU,the intel m3 processor is amazing,positive,457
+Operation_Performance,CPU,this thing can do a ton of multi - tasking,positive,457
+Usability,OS,the google play store is nice to have,positive,457
+Usability,OS,the android apps variants trump the chromebook pre - loaded apps,positive,457
+General,Chromebook,a great chromebook,positive,458
+Operation_Performance,Battery,stopped charging in 3 months,negative,458
+Price,Laptop,more affordable,positive,459
+General,Chromebook,chromebooks are cool,positive,460
+General,Chromebook,but they dont last at all,negative,460
+Usability,Laptop,this machine is extremely useable,positive,461
+Usability,Laptop,functionable,positive,461
+Operation_Performance,Battery,battery no longer charging,negative,462
+Usability,OS,the file system is extremely complicated to use,negative,463
+Design_Features,Display,the display panel on the machine i received is warped,negative,464
+Operation_Performance,Power_Supply,half the time it doesn ' t want to turn on,negative,465
+Design_Features,Hardware,the machine looks great from the hardware point,positive,466
+Usability,OS,the whole concept of chrome os and cloud applications sucks,negative,466
+Operation_Performance,OS,"it rebooted , then went into an endless boot loop",negative,467
+Operation_Performance,OS,now it says chrome os is missing or damaged,negative,467
+Design_Features,Hinge,the screen hinge feels weak,negative,468
+Design_Features,Display,screen is average by 2017 standards,neutral,469
+General,Chromebook,the chromebook is brilliant overall,positive,470
+Quality,Support,google provides zeros customer support related to the os,negative,471
+General,Laptop,horrible product,negative,472
+Quality,Support,tech support is no help,negative,473
+Quality,Support,unless you are willing to part with your computer for months without guarantee of return,negative,473
+Usability,OS,i am having a very difficult time with this chromebook,negative,474
+Operation_Performance,CPU,it freezes constantly,negative,475
+Connectivity,Microphone,the microphone does not work with regular speaker,negative,476
+Usability,OS,the tablet mode is horribly integrated,negative,477
+Quality,Return_Policy,i tried returning the second one,negative,478
+Quality,Return_Policy,it does n ' t give me the option to return it,negative,478
+General,Laptop,this is nothing more than an okay laptop,neutral,479
+General,Laptop,to get you through basic work activities,neutral,479
+General,Chromebook,it ' s one of the nicest chrombooks out there,positive,480
+Design_Features,Trackpad,mine came with an annoying trackpad,negative,481
+Design_Features,Monitor,the top metal monitor casing seems to be soft and bendable,negative,482
+Design_Features,Construction,the metal screen casing slightly bent,negative,483
+Design_Features,Construction,i can easily bend it back,positive,483
+Design_Features,Construction,not sure about the durability of this thing in the long term,negative,483
+Connectivity,Ports,a buzzing sound started coming out of the right side usb port,negative,484
+Quality,Company,chromebook with some manufacturing issues,negative,485
+Quality,Company,bad customer service,negative,485
+Design_Features,Display,the 1080 screen,positive,486
+Design_Features,Display,fonts to small for this size screen,negative,486
+Usability,OS,i find the chromium os to be very limiting,negative,487
+Usability,OS,would not recommend it over a cheap windows pc,negative,487
+Design_Features,Keyboard,the keyboard is fantastic,positive,488
+Design_Features,Touchpad,the touchpad is also some strange off color plastic,negative,489
+Operation_Performance,Trackpad,faulty trackpad resulting in jerky erratic cursor movement,negative,490
+Design_Features,Display,dead pixel on the screen,negative,491
+Operation_Performance,Chromebook,"if you want a really speedy chromebook , it ' s great",positive,492
+Quality,Laptop,the first unit i received shortly died after a few hours of usage,negative,493
+Design_Features,Fans&Cooling,i like the addition of the cooler boost button,positive,494
+Design_Features,Fans&Cooling,but most of the time i don ' t have to use it because i have a thermaltake auto laptop cooling pad that monitors the bottom surface of my laptop,positive,494
+Design_Features,Trackpad,trackpad is ok,neutral,495
+Connectivity,Wireless,wireless card is finicky,negative,496
+Connectivity,Internet,loses its internet connection at random times,negative,497
+Quality,Support,after being on the phone with technical support and windows support for a combined 10 hours,negative,498
+Quality,Hardware,the hardware is defective and must be replaced,negative,498
+Operation_Performance,CPU,run like heck from this machine,negative,499
+Quality,Laptop,it will break,negative,500
+General,Laptop,this laptop isn ' t even 30 days old yet,neutral,501
+Operation_Performance,Laptop,literally just closing it and opening it up later was a 50 / 50 proposition,negative,502
+Operation_Performance,Laptop,"if it would wake up , or the display would crash , or the disk would crash , or some driver would fail",negative,502
+Connectivity,Ethernet,hook up the cat5,positive,503
+Connectivity,Ethernet,the machine is screaming at high speed,positive,503
+Operation_Performance,System,the system was in such poor shape from the msi,negative,504
+Operation_Performance,Drivers,uninstall / install the drivers in exactly the correct order,positive,505
+Operation_Performance,Drivers,do a clean win 10 installation yourself,positive,505
+Operation_Performance,Laptop,this laptop should perform well for the price,positive,505
+Quality,Multimedia_Devices,the sound is really terrible and tinny,negative,506
+Operation_Performance,CPU,it ' s fast,positive,507
+Price,Laptop,excellent product for the price,positive,508
+General,Company,i ' ve always liked msi,positive,509
+General,Company,for their performance and fairly decent price,positive,509
+Operation_Performance,Battery,it was actually more like 1h45m,negative,510
+Operation_Performance,Battery,after optimizing the battery,negative,510
+Operation_Performance,Laptop,it stopped booting,negative,511
+Operation_Performance,Laptop,for the four days i used it,positive,512
+Operation_Performance,Laptop,it worked pretty good,positive,512
+Price,Laptop,this laptop is not worth the time,negative,513
+Price,Laptop,not the money,negative,513
+Quality,Support,the guy who answers is just so not interested in helping,negative,514
+General,Laptop,i am extremely disappointed,negative,515
+General,Laptop,this is by far and away the worst computer i have ever purchased,negative,516
+Operation_Performance,Laptop,got the second laptop,negative,517
+Operation_Performance,Laptop,died within a month,negative,517
+Operation_Performance,Laptop,this kept plaguing the laptop,negative,518
+Operation_Performance,Laptop,various bsod errors mostly involving the hardware,negative,518
+Design_Features,Laptop,poor design,negative,519
+Quality,Support,terrible tech support,negative,519
+General,Laptop,this computer is amazing,positive,520
+General,Laptop,quite like this laptop so far,positive,521
+Quality,Company,not too happy with msi,negative,522
+Quality,Company,likely to return this laptop,negative,522
+General,Laptop,this laptop was great starting out of the box,positive,523
+Quality,Support,their support page is very buggy,negative,524
+Quality,Support,the support people are unhelpful,negative,524
+Operation_Performance,Hard_Disc,i would avoid this,negative,525
+Operation_Performance,Hard_Disc,the optane drive which may have been part of the issue,negative,525
+Quality,Product,i finally decided to return my product,negative,526
+Quality,Support,good luck this customer tech support,negative,527
+Quality,Support,msi has absolutely no idea how to help you,negative,527
+Operation_Performance,Software,i ' ve had to do a factory reset on this piece of garbage 4 times,negative,528
+Quality,Construction,you can feel the plastic bending,negative,529
+General,Laptop,i really loved this laptop,positive,530
+General,Company,i will never own another msi product,negative,531
+Quality,Laptop,now i feel bad buying this for my child,negative,532
+Quality,Laptop,as this laptop seem to have a solid rating elsewhere,positive,532
+General,Laptop,i ' m stuck with a 3 month old laptop that does n ' t work,negative,533
+Operation_Performance,Windows,eventually got to the point that even when i reinstalled windows it was so slow,negative,534
+Operation_Performance,Windows,there are clearly serious build defects / instabilities on this product,negative,534
+Operation_Performance,Laptop,when it is functioning it works great,positive,535
+General,Laptop,finding out you bought garbage,negative,536
+Price,Laptop,for the steep price of $ 700 +,negative,536
+Operation_Performance,Screen,the laptop has minor screen freezes,negative,537
+Operation_Performance,Screen,even while playing low graphical games like league of legends,negative,537
+Operation_Performance,Laptop,laptop malfunctioned and stopped working,negative,538
+Design_Features,Display,nice screen,positive,539
+Design_Features,Display,very bright,positive,539
+Design_Features,Display,decent viewing angle,positive,539
+Design_Features,Display,ok for contrast,positive,539
+Design_Features,Keyboard,the keyboard is very nice,positive,540
+Design_Features,Keyboard,very responsive,positive,540
+Operation_Performance,Memory,fast bootup time with the optane memory,positive,541
+Operation_Performance,Memory,nice alternative to a very expensive ssd,positive,541
+Operation_Performance,Battery,the charge doesn ' t last like the five hours it stated,negative,542
+Operation_Performance,Battery,but instead last three hours,negative,542
+Operation_Performance,Laptop,it ' s riddled with problems,negative,543
+Operation_Performance,Hard_Disc,slow 5400 rpm 1 tb hard drive,negative,544
+Design_Features,Display,very good ips matte fhd panel,positive,545
+Design_Features,Display,zero reflections,positive,545
+Design_Features,Display,almost zero light bleed,positive,545
+Design_Features,Display,average brightness,positive,545
+General,Laptop,"used as bought , it is an ok laptop , but not great",neutral,546
+Design_Features,Connectivity,no ethernet port,negative,547
+Design_Features,Keyboard,no backlit keyboard,negative,548
+Operation_Performance,CPU,plenty of power for most tasks,positive,549
+Operation_Performance,Hard_Disc,the only weak point of the laptop is the hard drive it come with,negative,550
+Design_Features,Memory,luckily this laptop is extendable - 2 ram slots and one m . 2 slot for ssd,positive,550
+Price,Laptop,"i paid $ 500 for a 15 ` ` notebook with 8gb ram , latest i5 - 8250u cpu with reasonable weight and its quite extendable",positive,551
+Price,Laptop,i am happy for this deal,positive,551
+Design_Features,Button_Placement,the delete and power button being next to each other,negative,552
+Design_Features,Button_Placement,accidentally shutting it off,negative,552
+General,Laptop,haven ' t had any issues yet,positive,553
+General,Laptop,pretty glad i chose this,positive,553
+Design_Features,Laptop,very nice looking laptop,positive,554
+Design_Features,Display,sharp display,positive,555
+Design_Features,Ports,card slot for m . 2 ssd,positive,555
+Operation_Performance,OS,features windows 10,positive,555
+Quality,Laptop,great quality computer,positive,556
+Design_Features,Build_Quality,good build quality,positive,557
+Operation_Performance,CPU,so far it has been able to handle everything i ' ve thrown at it,positive,558
+General,Laptop,pretty good stuff,positive,559
+Value,Laptop,an epic powerhouse for under $ 700,positive,560
+General,Laptop,very good laptop,positive,561
+General,Laptop,something lightweight for everyday browsing,positive,561
+Operation_Performance,Hardware,excellent hardware,positive,562
+Operation_Performance,Hardware,however i ran into some nasty trouble after updating windows 10,negative,562
+Operation_Performance,OS,i had to format it,negative,563
+Connectivity,Power_Supply,the computer says it is plugged in but not charging,negative,564
+Operation_Performance,Security,the fingerprint reader works most of the time,positive,565
+Quality,Multimedia_Devices,the sound is fine for me,positive,566
+Quality,Multimedia_Devices,not as good as external speakers,negative,566
+Operation_Performance,Startup,this machine boots up slow,negative,567
+Price,Laptop,great value for a laptop,positive,568
+Design_Features,Display,love the 15 inch screen in the body of a 14 inch body,positive,569
+Quality,Construction,cheaply made plastic,negative,570
+Operation_Performance,Laptop,performance is well worth the trade,positive,570
+Design_Features,Touchpad,touchpad works well,positive,571
+Quality,Multimedia_Devices,the speakers are mediocre,negative,572
+Quality,Multimedia_Devices,don ' t put out too much volume,negative,572
+Quality,Multimedia_Devices,sensitive to position,negative,572
+Design_Features,Screen,i do like the screen on this,positive,573
+Design_Features,Screen,images are clean and crisp,positive,573
+Design_Features,Memory,enjoying the 4 gigs of ram,positive,573
+Usability,OS,i like how it ' s so simple,positive,574
+Usability,OS,without so much clutter and complexity,positive,574
+Price,Laptop,cheap price,positive,575
+Portability,Laptop,"perfect weight , size , and design",positive,576
+Operation_Performance,Battery,"laptop would never power on , even after being charged for 24 hours",negative,577
+Design_Features,Laptop,lightweight and sleek,positive,578
+General,Laptop,it ' s decent,positive,579
+Operation_Performance,Hard_Disc,ssd hardware issue,negative,580
+Quality,Support,support for amazon is making it good,positive,581
+Quality,Support,immediately sent me the return label,positive,581
+Quality,Support,thank god for amazon customer service,positive,581
+Quality,Return_Policy,the return procedure is so elaborate,negative,582
+Operation_Performance,Power_Supply,daughter opened it for christmas and it doesn ' t stay on,negative,583
+Design_Features,Keyboard,the keyboard felt responsive,positive,584
+Design_Features,Keyboard,was a good size,positive,584
+Quality,Company,i am very close to just returning it,negative,585
+Quality,Company,never buying another acer product ever again,negative,585
+Quality,Construction,props for the build quality,positive,586
+Usability,General,combine these items together and this item became very frustrating,negative,587
+Design_Features,Keyboard,exceptional keyboard,positive,588
+Design_Features,Touchpad,touchpad feel,positive,588
+Design_Features,Display,below average screen brightness,negative,589
+General,Reviews,most people,positive,590
+Quality,Company,when i sent it back to acer to repair it,negative,591
+Quality,Company,they simply claimed it had water damaging and couldn ' t fix it,negative,591
+Operation_Performance,Laptop,my acer aspire e 15 worked great for a day,positive,592
+Operation_Performance,Laptop,and then shut off by itself,negative,592
+Operation_Performance,Keyboard,the keyboard stopped working,negative,593
+General,Laptop,nice laptop,positive,594
+Operation_Performance,Laptop,good performance for the price,positive,595
+Quality,Laptop,spare to deal with ones that break down,positive,595
+General,Laptop,i purchased this computer because it came highly rated,positive,596
+Quality,Laptop,overall i think the quality of it is good especially for the price,positive,597
+Design_Features,Battery,can not remove the battery,negative,598
+Operation_Performance,Display,i too have the black screen problem,negative,599
+Quality,Multimedia_Devices,the speakers broke after 1 week of use,negative,600
+Value,Laptop,the computer is good for the price,positive,601
+Connectivity,Ports,the hdmi port is already broken,negative,601
+Operation_Performance,Battery,"won ' t turn on , won ' t charge",negative,602
+Design_Features,Laptop,not a game laptop,negative,603
+Operation_Performance,Battery,battery life can last me roughly 5 or 6 hours,positive,604
+Quality,Multimedia_Devices,the speakers on the bottom,neutral,605
+Quality,Multimedia_Devices,take a moment to get used to,neutral,605
+Design_Features,Keyboard,i hate the keyboard,negative,606
+Design_Features,Keyboard,it feels really cheap,negative,606
+Quality,Laptop,the laptop is cheap,negative,607
+Quality,Laptop,the laptop is flimsy,negative,607
+Operation_Performance,Graphics,mx150 gaphics card is also pretty bad,negative,608
+Quality,Customer Service,a lot of issues setting up the computer,negative,609
+Quality,Customer Service,after hours of customer service help,negative,609
+Quality,Touchpad,the touch pad did n ' t even work,negative,609
+Operation_Performance,Motherboard,it has a bad board,negative,610
+Operation_Performance,Laptop,something wrong with my laptop,negative,611
+Operation_Performance,Power_Management,something is wrong with the power management,negative,612
+Price,Laptop,very disappointed in the $ 600 e 15,negative,613
+Price,Laptop,"as opposed to the no frills , plain old , < $ 200 15 i ' ve had for 2 . 5 years",negative,613
+Operation_Performance,Trackpad,the trackpad stopped working,negative,614
+Design_Features,Display,there is a flicker in the middle of the screen,negative,615
+Design_Features,Display,that is very annoying,negative,615
+Operation_Performance,Keyboard,the keypad turns off every time the computer sleeps,negative,616
+General,Laptop,"otherwise , so far it is working well",positive,617
+Quality,Laptop,i presented my son with a gift of a defective machine,negative,618
+Operation_Performance,CPU,the computer itself is actually quite fast,positive,619
+Operation_Performance,CPU,my experience there so far has been good,positive,619
+Design_Features,Keyboard,keyboard and track pad shoved way left,negative,620
+Design_Features,Keyboard,keyboard rattles loudly when typing on left side,negative,621
+Connectivity,WiFi,will not connect to wifi,negative,622
+Design_Features,Screen,amd screen flashes when adjusting while on,negative,622
+Quality,Multimedia_Devices,the speakers are absolutely horrible,negative,623
+Operation_Performance,CPU,latest 8th generation core i5 cpu,positive,624
+Design_Features,Keyboard,keyboard has flex,negative,625
+Design_Features,Keyboard,but i can live with it,positive,625
+Design_Features,Keyboard,no backlight at keyboard,negative,626
+Design_Features,Keyboard,which makes it difficult to use in low light conditions,negative,626
+Design_Features,Keyboard,key presses are too stiff to press,negative,627
+Operation_Performance,Hard_Disc,hdd makes this laptop very slow,negative,628
+Design_Features,Case,asus engineers designed the case and laptop not to be opened by users,negative,629
+Design_Features,Keyboard,there is no backlight,negative,630
+Design_Features,Keyboard,keys are too stiff,negative,630
+Health,Keyboard,i believe it is not healthy to use this keyboard for a long time,negative,631
+Operation_Performance,OS,linux is mostly compatible with this laptop,positive,632
+Operation_Performance,OS,except fingerprint reader,negative,632
+Operation_Performance,Video_Processing,video converting process with same video file took only 25 minutes,positive,633
+Quality,Screen,you can hear the screen creak,negative,634
+Connectivity,Ports,it doesn ' t support a hardwire connection,negative,635
+Operation_Performance,Software,i have installed no software on it yet it updates something every day,negative,636
+Operation_Performance,Laptop,it just locked up again,negative,637
+Quality,Sound,did i mention it sounds like a lawn mower ?,negative,638
+Design_Features,Display,i do enjoy the screen quality,positive,639
+Connectivity,WiFi,the wifi is fast on this laptop,positive,639
+General,Laptop,"in all , stay away",negative,640
+Usability,Keyboard,keyboard is comfortable to use,positive,641
+Design_Features,Trackpad,finger doesn ' t slide smoothly along track pad,negative,642
+General,Laptop,horrible laptop,negative,643
+Quality,Shipping,i had to spend over $ 160 to return it,negative,644
+Quality,Company,i will never buy an other asus product,negative,645
+Operation_Performance,Laptop,"it just crashed , dead",negative,646
+Design_Features,Display,the screen looks pretty good,positive,647
+Design_Features,Display,except when viewing anything dark,negative,647
+Design_Features,Keyboard,the keyboard is awful,negative,648
+Design_Features,Keyboard,it feels like typing on a cheap keyboard from the 90s,negative,648
+Quality,Support,i asked asus for a replacement key,neutral,649
+Quality,Support,they said i ' d have to ship it back to them,negative,649
+Quality,Support,which would have left me without a computer for 2 weeks,negative,649
+General,Laptop,don ' t buy it,negative,650
+Operation_Performance,Laptop,after my 3rd boot up it ' s damaged,negative,651
+Operation_Performance,Hard_Disc,disk ( c : ) runs at 100 % all the time,negative,652
+General,Laptop,everything else is very good,positive,653
+General,Laptop,i am satisfied with my purchase,positive,653
+Operation_Performance,CPU,do not buy this computer if your plan is to multitask,negative,654
+Operation_Performance,CPU,play an occasional game and / or play music while searching the web,negative,654
+General,Laptop,"this is first impression , 1st day using it",positive,655
+General,Laptop,overall good laptop,positive,656
+Design_Features,Fingerprint_Scanner,the fingerprint scanner is half jotted,negative,657
+Design_Features,Fingerprint_Scanner,barely works,negative,657
+Operation_Performance,Screen,the screen turns itself off and logs you out whenever it feels to do so,negative,658
+Operation_Performance,Fingerprint_Scanner,finger print scanner not working whatsoever,negative,659
+Operation_Performance,Hard_Disc,5400rpm hard drive,negative,660
+Operation_Performance,Touchpad,poor touch pad,negative,661
+Operation_Performance,Touchpad,it get stuck,negative,661
+Design_Features,Construction,the physical case is solid,positive,662
+Design_Features,Construction,of a production quality you ' d expect in machine 3 - 5x the price of this machine,positive,662
+Usability,UI,"user interfaces that are tight , responsive , and intuitive",positive,663
+Operation_Performance,Development_Stack,light weight,positive,664
+Operation_Performance,Development_Stack,very robust,positive,664
+Operation_Performance,Development_Stack,convenience of cloud9 ' s collaboration features,positive,664
+Operation_Performance,Software,"i ' ve loaded a number of games , my password vault , several productivity apps , skype , spotify and some network scanning android apps and they ' ve all worked very well",positive,665
+Usability,OS,mouse and trackpad settings are very minimalist,negative,666
+Usability,OS,there ' s no way to modify short - cut keys,negative,666
+Usability,OS,"the power management options are pretty minimal , too",negative,666
+Usability,OS,the google play store is chock - full of great apps and games,positive,667
+Usability,OS,it ' s really seamless and smooth to move back and forth,positive,668
+Usability,OS,makes experimenting with different linux configs and environments effortless,positive,668
+General,Laptop,you won ' t be disappointed with this great little machine,positive,669
+General,Laptop,versatility is what really makes this machine such a fun and valuable computer,positive,669
+Accessories,Screen_Protector,"a nice , fitted anti - glare screen protector",positive,670
+Accessories,Screen_Protector,reduces the fingerprint / glare problems,positive,670
+Accessories,Screen_Protector,gives you some piece of mind about protecting that gorgeous screen,positive,670
+Design_Features,Processor,intel core m3 processor,positive,671
+Operation_Performance,Software,"apps like microsoft word , excel , etc run wonderfully",positive,672
+Operation_Performance,Software,the android youtube app doesn ' t work well at all,negative,673
+Operation_Performance,Software,it ' s very inconvenient to get videos into full - screen mode,negative,673
+Operation_Performance,CPU,it seems pretty fast,positive,674
+General,Laptop,i ' m very happy and relieved to see it working excellently,positive,675
+General,Chromebook,this is easily the best overall chromebook out there right now ( under $ 500 ),positive,676
+Operation_Performance,Battery,battery life is great,positive,677
+Design_Features,Keyboard,the backlight works great,positive,678
+Design_Features,Touchpad,it ' s a nice smooth surface,positive,679
+Design_Features,Touchpad,no tension when gliding across it,positive,679
+Design_Features,Touchscreen,multi - touch input works great,positive,680
+Quality,Laptop,i ' m really pleased with the overall quality,positive,681
+Portability,Laptop,it ' s light enough to carry pretty much every where,positive,682
+Operation_Performance,Startup,it starts up,positive,683
+Operation_Performance,Startup,runs without issues,positive,683
+Quality,Multimedia_Devices,even the speakers are way better,positive,684
+Value,Chromebook,not a $ 1300 pixel,positive,685
+Design_Features,Display,the screen has great contrast,positive,686
+Design_Features,Display,is glossy and sharp,positive,686
+Design_Features,Display,the screen was a tad bit brighter,negative,687
+General,Chromebook,overall great chromebook,positive,688
+General,Chromebook,this is a spectacular chromebook,positive,689
+Operation_Performance,CPU,it ' s faster,positive,690
+Design_Features,Display,the screen is much nicer,positive,690
+Design_Features,Memory,it has twice the memory,positive,690
+Design_Features,Hard_Disc,four times the drive space,positive,690
+Design_Features,Processor,the core m3 processor allows the c302 to be fanless,positive,691
+Design_Features,Processor,adding to the sleek design,positive,691
+Usability,OS,it ' s a real timesaver,positive,692
+Design_Features,Display,i find the display sharp,positive,693
+Design_Features,Touchscreen,touch responsive to be quite excellent,positive,693
+Value,Laptop,i think it is worth the extra cost,positive,694
+Value,Laptop,if you are looking for a premium product feel,positive,694
+Design_Features,Display,"nice , bright screen ( touchscreen , too ! )",positive,695
+Quality,Multimedia_Devices,"the speakers are on the bottom of the computer , so the sound is a little muffled",negative,695
+Quality,Multimedia_Devices,"the webcam is on the bottom of the screen , so it ' s pointing up your nose",negative,695
+Operation_Performance,Battery,battery doesn ' t last nearly as long as advertised,negative,696
+Design_Features,Laptop,very cleverly designed,positive,697
+Operation_Performance,CPU,fast machine,positive,697
+Operation_Performance,CPU,likely the fastest laptop i have ever used,positive,698
+Operation_Performance,Laptop,everything is working great,positive,699
+Design_Features,Trackpad,trackpad isn ' t the best,negative,700
+Operation_Performance,Touchscreen,the touch screen isn ' t as accurate,negative,701
+Design_Features,Display,the screen size is an awkward 16 : 9,negative,702
+Design_Features,Display,provides a 1920x1080 resolution,positive,702
+Recommendation,Chromebook,"for 99 % of the people looking at chromebooks right now for personal use , this asus is probably the best choice in the market",positive,703
+General,Chromebook,i am extremely impressed with this chromebook,positive,704
+General,Chromebook,would highly recommend this to others,positive,704
+Usability,Tablet,it works well as a tablet,positive,705
+Operation_Performance,Laptop,it works great as a laptop,positive,706
+Operation_Performance,Laptop,for the things i do which tend to be web based,positive,706
+Price,Laptop,$ 250 price tag,positive,707
+Price,Laptop,it was well worth it,positive,707
+Design_Features,Display,i found the display to be very vibrant,positive,708
+Design_Features,Display,with excellent pixel density,positive,708
+Design_Features,Ports,i like the dispersion of ports,positive,709
+Design_Features,Ports,it helps with the ergonomics of your daily usage,positive,709
+Design_Features,Display,the screen,positive,710
+Design_Features,Laptop,the excellent overall build quality,positive,710
+Value,Laptop,the c302 still offers the best premium chrome os experience at a respectable price,positive,711
+Design_Features,Display,the screen is fantastic,positive,712
+Design_Features,Mousepad,the mousepad feels very comfortable to use,positive,713
+Operation_Performance,Battery,the battery performance is all it ' s cracked up to be,positive,714
+Quality,Multimedia_Devices,the sound is rich and plenty loud enough,positive,715
+Design_Features,Keyboard,backlit allow even guys with large hands to use this keyboard comfortably,positive,716
+Design_Features,Touchpad,the trackpad is excellent,positive,717
+Design_Features,Touchscreen,the touchscreen is excellent,positive,717
+Quality,Multimedia_Devices,the speaker sound is ok,neutral,718
+Quality,Multimedia_Devices,but not great,neutral,718
+Usability,Chromebook,i really do love this chromebook,positive,719
+Usability,Chromebook,it provides a large amount of utility,positive,719
+Usability,Chromebook,is perfect for a university setting and environment,positive,719
+Connectivity,Ports,the usb - c ports are working well,positive,720
+Connectivity,Ports,"i bought a multiple port adapter , which gives me a regular usb port along with a hdmi port an another usb - c port for charging",positive,720
+Quality,Multimedia_Devices,good speakers,positive,721
+Quality,Multimedia_Devices,not the loudest,negative,721
+Design_Features,Construction,the device is so sturdy,positive,722
+Design_Features,Construction,clean looking,positive,722
+Design_Features,Construction,a pleasure to hold in my hands,positive,722
+Operation_Performance,Touchscreen,the touchscreen is very responsive,positive,723
+Operation_Performance,Touchscreen,works great in tablet mode,positive,723
+Operation_Performance,Battery,the battery life is touted as 10 hours,positive,724
+Operation_Performance,Battery,i find that 7 . 5 is more accurate,positive,724
+General,Chromebook,this is a fantastic chromebook,positive,725
+Operation_Performance,Battery,single battery charge can last 13 - 9 hours depending on wifi / video / app demand,positive,726
+General,Chromebook,i love this chromebook,positive,727
+Operation_Performance,Touchscreen,the touchscreen works very well,positive,728
+Operation_Performance,Touchscreen,android apps are working right now,positive,728
+General,Chromebook,i love this chromebook,positive,729
+General,Laptop,really love this device,positive,730
+Design_Features,Keyboard,i really like the keyboard,positive,731
+Design_Features,Bezel,the edges of the bezel are little too ` ` sharp ` ` to comfortably rest your palms,negative,732
+Portability,Laptop,it ' s a little too heavy to hold for long periods of time,negative,732
+Design_Features,Size,"as a laptop , this is just the size i need",positive,733
+Design_Features,Keyboard,the keyboard is often - praised,positive,734
+Design_Features,Keyboard,i don ' t find it particularly spectacular,negative,734
+Portability,Laptop,very light,positive,735
+Portability,Laptop,seems surprisingly sturdy,positive,735
+Operation_Performance,Battery,the battery life seems just as promised,positive,736
+Design_Features,Keyboard,the keyboard is comfortable to type on,positive,737
+Design_Features,Display,the screen is clear and bright,positive,738
+Operation_Performance,System,the system doesn ' t lag unless i have a large number of tabs open,positive,738
+Usability,OS,"i write a lot for work and use a chromebook as my daily driver for notes , word processing , spreadsheets , etc .",positive,739
+Operation_Performance,Battery,battery last incredibly long,positive,740
+Connectivity,Printer,it found and connected to my wireless printer also with no problems,positive,741
+General,Laptop,this is exactly what i wanted,positive,742
+Usability,Laptop,i now feel like this could be my main computer for work and fun,positive,743
+General,Laptop,give the asus flip 302 consideration,positive,744
+Operation_Performance,Battery,its battery life is quite good,positive,745
+Operation_Performance,Keyboard,the keyboard experience is great,positive,745
+Connectivity,Ports,the plugs are good and bad,neutral,746
+Connectivity,Ports,i plugged in regular headphones,negative,747
+Connectivity,Ports,it was horribly low,negative,747
+Connectivity,Ports,very unenjoyable to listen to music this way,negative,747
+Design_Features,Keyboard,nice sized keyboard,positive,748
+Design_Features,Keyboard,works great as a tablet,positive,748
+General,Laptop,this machine is far better than anything i ' ve ever owned,positive,749
+Design_Features,Display,nice and bright,positive,750
+Design_Features,Display,perfect size to use in bed,positive,750
+Price,Laptop,you ' ll find a better laptop at this price point,positive,751
+Design_Features,Laptop,it ' s super thin,positive,752
+Design_Features,Laptop,super light,positive,752
+Portability,Laptop,fits in my backpack,positive,753
+Portability,Laptop,without all the added weight of a small 13 ` ` laptop,positive,753
+Portability,Laptop,very light in weight,positive,754
+Quality,Laptop,feels quite durable and strong,positive,754
+Design_Features,Display,the picture quality is very good,positive,755
+Operation_Performance,Laptop,the book itself is responsive and fast,positive,755
+Recommendation,Laptop,i can ' t recommend the asus c302 enough,positive,756
+Design_Features,Keyboard,the keyboard itself is probably the one physical weak point,negative,757
+Design_Features,Touchscreen,the touchscreen works well,positive,758
+Usability,Functionality,it does work and is handy,positive,759
+Portability,Laptop,it ' s very light,positive,760
+Portability,Laptop,sitting on the couch typing this is comfortable,positive,760
+Operation_Performance,Sound,sound is really low while using an aux speaker / headphone,negative,761
+Operation_Performance,Keyboard,spacebar doesn ' t always accept input,negative,762
+General,Laptop,this is my favorite computer,positive,763
+Operation_Performance,Battery,the battery life is stunning,positive,764
+General,Laptop,i ' m insanely satisfied with this purchase,positive,765
+General,Chromebook,this chromebook is one of the best computers i ' ve ever used,positive,766
+Operation_Performance,Laptop,"the asus chromebook flip 302ca is smooth , fast and incredibly well engineered and built",positive,767
+Design_Features,Display,the screen resolution is great,positive,768
+Design_Features,Touchpad,the touch pad is accurate,positive,769
+Design_Features,Display,i wish there was a way to default the screen brightness,negative,770
+Design_Features,Keyboard,i wish there was a way to default the keyboard backlight to off,negative,770
+Price,Chromebook,$ 500 price tag,positive,771
+Price,Chromebook,i am very pleased with the purchase and i believe it is worth the price,positive,771
+Usability,Touchscreen,it ' s really nice to have the touchscreen,positive,772
+Usability,Touchscreen,i can seamlessly transition back to using the trackpad / keyboard,positive,772
+Design_Features,Keyboard,keyboard is comfortable,positive,773
+Design_Features,Display,screen is sharp,positive,773
+Portability,Laptop,very portable,positive,774
+Portability,Battery,battery should last full day of normal usage,positive,774
+General,Chromebook,i truly love this chromebook,positive,775
+Design_Features,Touchscreen,the touch screen is really accurate,positive,776
+Design_Features,Convertible,the 360 flip feature is really easy,positive,776
+General,Chromebook,the pros definitely outweigh the cons,positive,777
+General,Chromebook,earning this chromebook 5 stars,positive,777
+General,Laptop,great computer,positive,778
+Price,Laptop,especially for the price,positive,778
+Connectivity,Ports,two usb - c for charging ( no more odd angles ! ),positive,779
+Design_Features,Security,the fingerprint scanner,positive,779
+Price,Chromebook,price is a bit expensive for a chromebook,negative,780
+Usability,Laptop,"it ' s perfect for school , surfing the web , and watching videos",positive,781
+General,Laptop,i really love the laptop,positive,782
+General,Laptop,it is exactly what i wanted and expected in the price range,positive,782
+General,Laptop,i ' m super happy with it,positive,782
+Design_Features,Laptop,it feels and performs mighty solid,positive,783
+Connectivity,WiFi,the wifi connectivity is strong and consistent,positive,784
+Design_Features,Display,the screen isn ' t bright enough,negative,785
+Design_Features,Multimedia_Devices,the speakers aren ' t louder,negative,785
+Operation_Performance,CPU,"c302ca - dh54 gets the job done for work that doesn ' t require multiple cores for rendering , weight painting or ripping",positive,786
+Operation_Performance,Graphics,the graphics are great,positive,787
+Operation_Performance,Laptop,it ' s been able to do everything i ' ve needed,positive,788
+Price,Chromebook,it ' s a bit pricey for a chromebook,negative,789
+Price,Chromebook,but worth it right now,positive,789
+Operation_Performance,Software,does not run the native android versions of microsoft office,negative,790
+General,Laptop,this has met and exceeded my expectations,positive,791
+Design_Features,Size,this is a small,positive,792
+Design_Features,Construction,well built,positive,792
+Usability,General,ideal for general usage,positive,792
+Design_Features,Display,the screen resolution is also very good,positive,793
+General,Laptop,i would highly recommend this,positive,794
+Design_Features,Display,i love the backlight,positive,795
+Design_Features,Display,it ' s not so bright as to blind you at night time,positive,795
+Quality,Multimedia_Devices,speaker ' s are ok but not amazing,neutral,796
+Quality,Multimedia_Devices,they are mounted on the sides so they work well in laptop or tablet mode equally well,positive,796
+Usability,OS,being able to use play store apps has been a huge plus,positive,797
+Usability,OS,"i ' m now so comfortable with google docs , i ' very already forgotten i even owned a windows laptop",positive,797
+Design_Features,Display,this screen is really good,positive,798
+Design_Features,Keyboard,the keyboard and form factor are much better,positive,798
+Design_Features,Convertible,i really enjoy the 2 - 1 aspect of the device,positive,799
+Design_Features,Convertible,"really like how when folded into tablet mode , there aren ' t any weird groves on the sides",positive,799
+Design_Features,Touchscreen,touch screen feel good,positive,800
+Design_Features,Rotation,360 rotation,positive,800
+Operation_Performance,Battery,battery life is amazing,positive,801
+General,Laptop,very good purchase,positive,802
+Operation_Performance,Laptop,"in laptop form , it ' s mediocre at best",negative,803
+General,Laptop,this chromebook is really one of the best you can own,positive,804
+General,Laptop,in my opinion one of the best laptops in general,positive,804
+Operation_Performance,Battery,the battery life is great,positive,805
+Design_Features,Touchscreen,love the touchscreen / flip feature,positive,805
+Connectivity,Ports,audio quest dragonfly is automatically detected,positive,806
+Connectivity,Ports,runs perfectly when attached to one of the usb - c ports,positive,806
+Design_Features,Keyboard,the keyboard is backlit,positive,807
+Design_Features,Keyboard,big enough for my fingers,positive,807
+Design_Features,Keyboard,the keyboard,positive,808
+Design_Features,Display,screen resolution,positive,808
+Operation_Performance,CPU,speed,positive,808
+Operation_Performance,Battery,the battery lasts at least 8 - 9 hours,positive,809
+Operation_Performance,CPU,it is quick,positive,810
+Operation_Performance,Battery,battery lasts a long time,positive,810
+Operation_Performance,Software,certainly does what i need it to do ( which is web surfing multiple pages at the same time while having a few ms documents open ),positive,810
+Design_Features,Laptop,"it ' s a clean , mean , lean , machine",positive,811
+General,Laptop,the switch has been awesome,positive,812
+Design_Features,Keyboard,the backlit keyboard is awesome,positive,813
+Usability,Keyboard,keyboard was a little confusing,negative,814
+Design_Features,Display,screen display is bright,positive,815
+Design_Features,Display,has excellent graphics,positive,815

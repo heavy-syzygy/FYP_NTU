@@ -1,0 +1,894 @@
+category,aspect,segment,sentiment,review_id
+Food,Sushi,serves really good sushi,positive,1
+Food_Quality,Portion size,not the biggest portions,negative,2
+Food_Quality,Portion size,but adequate,positive,2
+Food,Green Tea Creme Brulee,green tea creme brulee is a must,positive,3
+Food,Sushi,it has great sushi,positive,4
+Service,Service,even better service,positive,4
+Service,Staff,the entire staff was extremely accomodating,positive,5
+Service,Staff,and tended to my every need,positive,5
+Food_Quality,Restaurant,i ' ve been to this restaurant over a dozen times with no complaints to date . ,positive,6
+Owner,Belligerent,the owner is belligerent to guests that have a complaint,negative,7
+Food,Food,good food,positive,8
+Food_Quality,Food,a great place to get a delicious meal,positive,9
+Staff,Friendliness,the staff is pretty friendly,positive,10
+Food,Onion Rings,the onion rings are great,positive,11
+Food_Quality,Chicken,the lemon chicken tasted like sticky sweet donuts,negative,12
+Food_Quantity,Prawns,"and the honey walnut prawns, the few they actually give you",negative,12
+Atmosphere,Ambience,nice ambience,positive,13
+General,Place,but highly overrated place,negative,13
+Service,Service,worst service i ever had,negative,14
+Service,Service,everyone that sat in the back outside agreed that it was the worst service we had ever received,negative,15
+Service,Waiter,our waiter was non-existent,negative,16
+Food,Delivery,after our food finally arrived over an hour after we ordered,negative,16
+Service,Water,we were not given any water,negative,16
+Service,Utensils,we were not given any utensils,negative,16
+Service,Manager,i complained to the manager,negative,17
+Service,Manager,but he was not even apologetic,negative,17
+Food,Italian,fabulous italian food,positive,18
+Recommendation,Mioposto,I highly recommend Mioposto.,positive,19
+Food_Quality,Italian food,a wonderful italian restaurant,positive,20
+Location,Neighborhood,in my neighborhood,positive,20
+Food_and_Drink,Wine,the wine list is wonderful,positive,21
+Food_and_Drink,Food,the food reminds me of my recent trip to Italy,positive,21
+Food_Quality,Restaurant,i love this restaurant,positive,22
+Food_Quality,Meal,the amazing meal,positive,23
+Service,Service,service,positive,23
+Atmosphere,Ambiance,ambiance,positive,23
+Wine_List,Wine List,the wine list is incredible and extensive and diverse,positive,24
+Food,Food,the food is all incredible,positive,24
+Staff,Staff,"the staff was all very nice, good at their jobs and cultured",positive,24
+General,Place,i have not a bad thing to say about this place,positive,25
+Food,Food,the food was great,positive,26
+Price,Food,"it ' s very reasonably priced , esp for the quality of the food .",positive,27
+Food,Kafta,I had the kafta plate,positive,28
+Food,Quality,high quality food,positive,29
+Service,Service,good service,positive,29
+Atmosphere,Place,this is the place to relax,positive,30
+Food,Quality,enjoy the finest quality food,positive,30
+Food,Industry,the industry can offer,neutral,30
+Food,Real Food,its real food,positive,31
+Food,People,for people,positive,31
+Food,Best,who love the best,positive,31
+Atmosphere,atmosphere,i liked the atmosphere very much,positive,32
+Food,food,the food was not worth the price,negative,32
+Food,Sushi,the food here is just okay,negative,33
+Food,Sushi,there is not much else to it,negative,33
+Quality,Rice,rice is too dry,negative,34
+Quality,Tuna,tuna was n't so fresh either,negative,34
+Food_Quality,Fish,quality and variety of the fish to be excellent,positive,35
+Value,Value,value,negative,36
+Service,Service,service,negative,36
+Food_Quality,Fish,the fish is unquestionably fresh,positive,37
+Food_Quality,Rolls,rolls tend to be inexplicably bland,negative,37
+Service,Service,the service ranges from mediocre to offensive,negative,38
+Service,Waiter,our waiter was extremely dismissive,negative,39
+Service,Staff,while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby,positive,39
+Food,Sushi,freshest sushi,positive,40
+Restaurant,Restaurant,i love this restaurant,positive,40
+Food,Miso soup,miso soup,positive,41
+Food,Rolls,complex rolls,positive,41
+Food,Sashimi,the sashimi was the freshest and most tender i have ever tasted,positive,42
+Food_Quality,Apps,their apps are all delicious,positive,43
+Price,Expensive,this place is really expensive,negative,44
+Quantity,Portion,portions are on the small side,negative,44
+Design_Features,Space,but the space is small and lovely,positive,45
+Service,Service,and the service is helpful,positive,45
+Food,Food,the food was not great,negative,46
+Service,Waiter,the waiters were rude,negative,46
+Service,Service,great service,positive,47
+Service,Service,my service was stellar,positive,48
+Service,bus boy,the bus boy even spotted that my table was shaking and stabilized it for me,positive,49
+Food,Taste,"food was fine, with a some little - tastier - than - normal salsa",positive,50
+Food_Quality,Food,the food was great,positive,51
+Food_Quality,Margaritas,the margaritas too,positive,51
+Service,Waitress,the waitress was too busy being nice to her other larger party than to take better care of my friend and me,negative,51
+Food,Pizza,mama mia – i live in the neighborhood and feel lucky to live by such a great pizza place,positive,52
+Food_Quality,Pizza,you really have to warm up the pizza before it ' s edible,negative,53
+Food,Pizza,"but once done, it's not too much dough, not too much cheese, not too much sauce.",positive,54
+Food,Sushi,best sushi in town,positive,55
+Food,Calamari,the best calamari in seattle,positive,56
+Service,Customer Service,they will even bring you a blanket if you get cold,positive,57
+Atmosphere,Weather,in the seattle evening weather,neutral,57
+Atmosphere,Place,a perfect place,positive,58
+General,Guests,to take out of town guests,neutral,58
+Timing,Year,any time of the year,neutral,58
+Entertainment_Features,Fun,endless fun,positive,59
+Entertainment_Features,Music,awesome music,positive,59
+Customer_Service,Staff,great staff,positive,59
+Atmosphere,Bar,by far the best bar in the east village,positive,60
+Food_and_Drink,Drafts,great draft selection,positive,61
+Food_and_Drink,Bottles,and bottle selection,positive,61
+Food_and_Drink,Pizza,and the pizza rocks,positive,61
+Design_Features,Jukebox,definitely has one of the best jukebox ' s i ' ve seen in a long long time,positive,62
+Food_Quality,Food,the food is great,positive,63
+Service,Bartenders,the bartenders go that extra mile,positive,63
+Atmosphere,Owners,the owners are great fun,positive,64
+Atmosphere,Beer Selection,the beer selection is worth staying for,positive,64
+Location,upstairs,upstairs,positive,65
+Smoking,Smoking places,not alot of smoking places left in new york,negative,66
+Smoking,Smoking places,but i have found my favorite smoking balcony in the city,positive,66
+Food,Sushi,the sushi here is delicious,positive,67
+Food_Selection,Fish,they have a wide variety of fish,positive,68
+Food_Origin,Fish,and they even list which oceans they come from ; atlantic or pacific,positive,68
+Food,Jellyfish,the jellyfish,positive,69
+Food,Horse Mackerel,horse mackerel,positive,69
+Food,Blue Fin Tuna,blue fin tuna,positive,69
+Food,Sake Ikura Roll,sake ikura roll,positive,69
+Design_Features,Size,i wish the pieces were a little bigger,negative,70
+Design_Features,Decor,"the decor is rustic, traditional japanese",positive,71
+General,Crowd,"the crowd is mixed yuppies, young and old",neutral,72
+Service,Service,the service was courteous and attentive,positive,73
+Food,Food,mediocre food,negative,74
+Food_Menu,Patio,the outside patio area has an abbreviated menu,negative,75
+Food,Quality,food was very mediocre,negative,76
+Food,Price,especially considering the price,negative,76
+Food,Food,average food,negative,77
+Customers,Customers,most customers are probably one-time customer tourists,negative,77
+Service,Service,service was decent,positive,78
+Food_and_Drinks,Drinks,drinks were good,positive,79
+Food,Food,excellent food,positive,80
+Ambience,Ambience,nice ambience,positive,80
+Price,Price,fairly expensive,negative,80
+Food,Pumpkin Ravioli,loved the pumpkin ravioli,positive,81
+Food,Goat Cheese Gnocchi,loved the goat cheese gnocchi,positive,81
+Food,Filet Mignon,loved her filet mignon,positive,81
+Atmosphere,Ambiance,the ambiance was a peaceful and relaxing break,positive,82
+Atmosphere,Crowd,amongst all the kids running around,negative,82
+Location,Disney,in downtown disney,positive,82
+Food,Indian,best indian food in l . a .,positive,83
+Food,Chicken Curry,chicken curry,positive,84
+Food,Chicken Tikka Masala,chicken tikka masala,positive,84
+Food,Chana Masala,the chana masala ( garbanzo beans ) are also excellent,positive,85
+Location,Strip Mall,it ' s located in a strip mall,negative,86
+Food,Food,the food keeps me coming back for more,positive,86
+Atmosphere,Crowdedness,never too crowded,positive,87
+Service,Service,always great service,positive,87
+Food,Menu,i think i have probably tried each item on their menu at least once,positive,88
+Food,Menu,it is all excellent,positive,88
+Food,Saag,saag,positive,89
+Food,Paneer,paneer,positive,89
+Food,Korma,korma,positive,89
+Service,Delivery,i appreciate their delivery too,positive,90
+Food,Food,nice food,positive,91
+Food,Spice,but no spice,negative,91
+Food_Quality,Meal,i really enjoyed my meal here,positive,92
+Food,Lamb Korma,i had yummy lamb korma,positive,93
+Food,Saag Paneer,saag paneer,positive,93
+Food,Samosas,samosas,positive,93
+Food,Naan,naan,positive,93
+Food,Food,the food was all good,positive,94
+Food,Spiciness,but it was way too mild,negative,94
+Food,Naan,the naan was some of the best i ' ve had,positive,95
+Food,Bhartha,i really enjoyed the bhartha,positive,95
+Food,Bhartha,not too tomatoey,positive,95
+Food,Chickpeas,even the chickpeas,positive,96
+Food,Chickpeas,which i normally find too dry,negative,96
+Food,Chickpeas,were good,positive,96
+Food,Fajita Salad,the fajita salad,positive,97
+Food,Colorado,the colorado,positive,97
+Food,Fajitas,the fajitas,positive,97
+Atmosphere,Environment,warm & cosy environment,positive,98
+Atmosphere,Privacy,you can have the place to yourself on nights and weekends for a private party,positive,99
+Atmosphere,Excitement,ca n ' t wait to celebrate my next birthday there,positive,99
+Food_Quality,Restaurant,best restaurant in the world,positive,100
+General,Decor,great decor,positive,100
+Customer_Service,Customer Service,great customer service,positive,100
+Customer_Service,Manager,friendly manager,positive,100
+Food,Food,i am never disappointed with there food,positive,101
+Atmosphere,atmosphere,the atmosphere is great,positive,102
+Food_Quality,Lunch,great lunch spot,positive,103
+Food_Quality,Mexican Spot,great financial district mexican spot,positive,104
+Service,seating,they are good at seating you promptly,positive,105
+Service,speed,have quick service,positive,105
+Food,Taco salads,taco salads,positive,106
+Food,Burritos,burritos,positive,106
+Food,Enchiladas,enchiladas,positive,106
+Atmosphere,Place,i love this place,positive,106
+Food_and_Drink,Margaritas,also have great margaritas,positive,107
+Food,Food,the food is simply unforgettable,positive,108
+Food_Quality,Presentation,the presentation of the food was an added bonus,positive,109
+Food_Quality,Quality,it looked just as great as it tasted,positive,109
+Food,chicken shawarma,my best friend had the chicken shawarma,positive,110
+Staff,Friendly,the staff are friendly,positive,111
+Decor,Ethnic,the decor was ethic,positive,111
+Decor,Colorful,and colorful,positive,111
+Food,Quality,the quality is inconsistent during lunch,negative,114
+Food,Taste,the food is here is incredible,positive,114
+Food_Quality,Dinners,"dinners have always been excellent, ",positive,115
+Food_Quality,Food Quality,in terms of food quality.,positive,115
+Food,Open Sesame Combo Plate,The open sesame combo plate is a bargain,positive,116
+Food,Open Sesame Combo Plate,for the heap of food given,positive,116
+Food,Potatoes,the side of potatoes is to die for,positive,117
+Food,Labne,as is the labne ( yogurt dip ),positive,117
+Food_Quality,Hummus,serve the best hummus in America,positive,118
+Food_Preparation,Hummus,with a drizzle of fragrant olive oil,positive,118
+Service,Service,the slow service,negative,119
+Ambience,Seating,the crowded seating,negative,119
+Food,Food,this place is a gem,positive,120
+Food,Food,and i won't stop going back,positive,120
+Food_and_Drink,Beer,great beer selection,positive,121
+Food_Quality,restaurant,it was absolutely horrible,negative,122
+Food_and_Drink,Beer,for a warm beer,negative,123
+Food_and_Drink,Meal,and mediocre meal,negative,123
+Entertainment,band,the band was very good,positive,124
+Service,service,and the service was attentive,positive,124
+Food,Small Plates,we ordered a selection of the small plates,positive,125
+Food,Shoe String Onions,and the shoe string onions,positive,125
+Food,Goat Cheese Pizza,goat cheese pizza,positive,125
+Food,Grilled Asparagus,grilled asparagus,positive,125
+Food,Fried Brie with Fruit,fried brie with fruit,positive,125
+Wine,Wine,seattle ' s best winelist,positive,126
+Food_and_Drink,Wine,has the city's best & most diverse wine list,positive,127
+Service,Sommelier,"the sommelier is fantastic, down-to-earth, & extremely knowlegable.",positive,128
+Experience,Wine,i would go back for the wine experience alone,positive,129
+Dive,Dive,"perhaps now , scooner or later falls into the ` ` dive ' ' category . ",negative,131
+Atmosphere,Place,a place that was once the place to meet and eat for bfast or lunch,negative,132
+Atmosphere,Place,now be the place that is a big ` ` dont bother . ' ',negative,132
+Food,Food,the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up,negative,133
+Service,Service,and the service is the worst i have experienced anywhere ( including mainland europe ),negative,133
+Service,attitude,the worst service / attitude,negative,134
+General,establishment,comes from the owners of this establishment,neutral,134
+Food_Quality,Establishment,"this establishment really made a marked decline after ( and this is recurring story ) the airing of food televisions ` ` diners , drive - ins , and dives ' ' hosted by guy fieri , in which schooner or later was subject of . ",negative,135
+Food_and_Drink,Pizza,the best pizza,positive,136
+Food_and_Drink,Coffee,coffee,positive,136
+Food_Menu,Pizza,mioposto has a very creative & delicious pizza menu,positive,137
+Quality,Coffee,the coffee is very good,positive,138
+General,Coffee,too,positive,138
+Atmosphere,Ambience,great open and friendly ambience,positive,139
+Atmosphere,Place,this place is charming and relaxing,positive,140
+Service,Servers,the servers behind the counter are always friendly and helpful,positive,141
+Food_and_Drink,Food,it ' s a great place to enjoy food,positive,142
+General,Friends,and meet friends,positive,142
+Food,Food,great food,positive,143
+Location,Location,spectacular location,positive,143
+Service,Service,friendly service,positive,143
+Food,Food,enjoyed the food,positive,144
+Service,Service,and service,positive,144
+Food,Food,food was good,positive,145
+Food,Price,and cheap,positive,145
+Food,Kafta,i had the kafta plate,positive,146
+Atmosphere,Atmosphere,atmosphere was nice,positive,147
+Service,Service,service was kind of slow,negative,148
+Service,Waitress,our waitress took forever to give us our check,negative,148
+Recommendation,Place,still i would recommend this place,positive,149
+Food,Food,great food,positive,151
+Atmosphere,Atmosphere,with an awesome atmosphere,positive,151
+Food,Eggs,eggs,positive,152
+Food,Pancakes,pancakes,positive,152
+Food,Potatoes,potatoes,positive,152
+Food,Fruit,fresh fruit,positive,152
+Food,Yogurt,yogurt,positive,152
+Food_and_Drink,Breakfast,the best place for a leisure sunday breakfast,positive,153
+Location,Farmer's Market,then take a stroll through the nearby farmer's market,positive,153
+Food_Quality,Fish,the fish on the omikase platter was absolutely decadent,positive,154
+Food_Quality,Fish,there was none of the stringiness that sometimes accompanies fair sushi,positive,154
+Food_Quality,Fish,this fish was perfect,positive,154
+Food,Rice,i am allergic to rice,negative,155
+Service,Waitstaff,the waitstaff was unbelievably accomodating,positive,155
+Service,Waiter,the waiter suggested a perfect sake,positive,156
+Food,Sushi,unbeatable sushi,positive,157
+Food,Nigiri,melt in your mouth nigiri,positive,158
+Food,Sashimi,and sashimi,positive,158
+Food,Rolls,and very tasty rolls too,positive,158
+Food,Oyster Roll,be sure to try the oyster roll,positive,159
+Food,Sushi,"hmmmm, delicious, amazing, fantastic, suculent, perfect, nah, all of the above.",positive,160
+Food_Quality,Restaurant,i ca n ' t say enough good things about this restaurant,positive,161
+General,Restaurant,and i ca n ' t wait for my next several visits,positive,161
+Food,Chuwam mushi,the best chuwam mushi,positive,162
+Food,Sushi,good sushi,positive,163
+Price,Price,high price,negative,163
+Food,Sushi,one of the best sushi place in town,positive,164
+Food,House Special Roll,the house special roll is really good,positive,165
+Food,Brunch,brunch at murphy's is to die for,positive,166
+Food,Egg White Omelet,my specialty...egg white omelet,positive,166
+Food,Preparation,the food is always freshly prepared,positive,166
+Atmosphere,Romantic,it ' s the perfect spot for a romantic date for 2,positive,167
+Atmosphere,Secret,or a secret rendezvous,positive,167
+Food_Dining,Desserts,save room for scrumptious desserts,positive,168
+Food_and_Drink,Wine,the restaurant offers an extensive wine list,positive,169
+General,Atmosphere,and an ambiance you won't forget,positive,169
+Food,Mexican,best mexican place for lunch,positive,170
+Location,Financial District,in the financial district,neutral,170
+Food,Enchiladas,love the enchiladas,positive,171
+Food,Soup,chicken soup,positive,171
+Service,Specials,check out their specials,neutral,171
+Staff,Cooks,the cooks have been at the restaurant for years,positive,172
+Cuisine,Family Recipes,cook family recipes,positive,172
+Service,Efficiency,the service is so efficient you can be in and out of there quickly,positive,173
+Service,Availability,can get busy on fridays for a table,negative,173
+Food,Sushi,the sushi was excellent,positive,174
+Service,Wait Staff,the wait staff was quick,positive,174
+Atmosphere,Atmosphere,the atmosphere was just okay,negative,175
+Atmosphere,Space,space was limited,negative,176
+Food,Food,but the food made up for it,positive,176
+Customer Service,Employees,we stood there for 10 minutes while employees walked back and forth ignoring us,negative,177
+Service,Staff,my wife stood face to face in front of one of the staff,neutral,178
+Service,Table,` ` are you waiting for a table ? ' ',neutral,178
+Food,Caesar Salad,the caesar salad i ordered,negative,179
+Food,Caesar Salad,had so much lemon,negative,179
+Food,Caesar Salad,i could n't eat it,negative,179
+Food,Food,great food,positive,180
+Drinks,Margaritas,better margaritas,positive,180
+Food_and_Drink,Lunch,This is one of my top lunch spots,positive,181
+Food_and_Drink,Portion size,Huge portions,positive,181
+Service,Speed,Fast service,positive,181
+Food_and_Drink,Margaritas,Amazing margaritas,positive,181
+Atmosphere,Crowd,it gets really busy,negative,182
+Atmosphere,Wait,"so get there on the early side so you can grab a seat , if you do have to wait , its not bad",neutral,182
+Service,Speed,because the service is quick,positive,182
+Design_Features,Art,check out the art on the walls,positive,183
+Design_Features,Color,very colorful,positive,183
+General,Place,this place,positive,184
+Food,Meal,i have never had one bad meal,negative,185
+Food,Indian,i highly recommend this place to all that want to try indain food for the first time,positive,186
+Food_Menu,Lunch,the lunch menu,positive,187
+Food_Quality,Food,plenty of food,positive,188
+Food_Quantity,Food,plenty of food,positive,188
+Food,Ingredients,fresh ingredients,positive,189
+Food,Taste,super tasty,positive,189
+Food,Food,best food,positive,190
+Service,Service,phenominal service,positive,190
+Food,Sushi,for the finicky sushi eater and those who have sampled the best nyc has to offer,positive,191
+Service,Service,the service is superb,positive,191
+Food,Sushi,"not only can the selection be innovative, but there's a nice balance of traditional sushi as well.",positive,192
+Service,Waiter,the nicest waiters in town,positive,193
+Atmosphere,Place,this place,negative,194
+Food_Quality,Brunch,average brunch food,negative,195
+Service,Waiting,i would put murphy ' s at the top of the list,negative,195
+Food,Menu,the regular menu here is slightly above average,positive,196
+Service,Attitude,that is not worth the snotty attitude that you receive,negative,196
+Food,Sushi,you're a sushi fan,positive,197
+Food,Sushi,you love expertly cut fish,positive,197
+Food,Sushi,great sake,positive,197
+Food,Sushi,a killer soho location,positive,197
+Food,Sushi,"and of course: salmon, tuna, fluke, yellow tail, cod, mackeral, jellyfish, sea urchin, shrimp, lobster, sea bream, trout, milk fish, blue fin tuna, eel, crab, sardine, monk fish, roe, scallop, oysters, and a varity of toro",positive,197
+Location,East Coast,the east coast,positive,198
+Location,All,it all,positive,198
+Location,More,a lot more,positive,198
+Food_Dining,Sushi,the best sushi restaurant in the world : blue ribbon sushi,positive,199
+Food,Tuna,the best tuna,positive,200
+Food_Quality,Sushi,great value sushi,positive,202
+Food_Quality,Sushi,high quality,positive,202
+Restaurant_Ambiance,Setting,nice setting,positive,202
+Food,Sushi,try the chef's choice for sushi,positive,203
+Food,Sushi,the smoked yellowtail was incredible,positive,203
+Food,Sushi,the rolls were also tasty,positive,203
+Customer_Service,Customer Service,poor customer service,negative,204
+Food,Pizza,poor pizza,negative,204
+Service,Service,mioposto's service was bad,negative,205
+Food,Food,the food was overpriced,negative,205
+Food,Pizza,but mioposto's pizza lacks quality and good taste,negative,206
+Food,Frozen Pizza,"to be honest, i've had better frozen pizza.",negative,207
+Location,Mioposto,the only positive thing about mioposto is the nice location,positive,208
+Food,Restaurant,this place is fantastic,positive,209
+Food,Restaurant,it has not let us down in any way,positive,209
+Food,Restaurant,we ' ve eaten here more than 10 times,positive,209
+Food,Food,the food is fantastic,positive,210
+Service,Waiting Staff,waiting staff has been perfect every single time we ' ve been there,positive,210
+Operation_Performance,Wait,the only problem would be the wait,negative,211
+Service,Wait,but we usually just have a drink in the front while waiting,positive,211
+Food,Seabass,seabass on lobster risotto,positive,212
+Food,Caesar Salad,Caesar salad was superb,positive,213
+Food,Dessert,leave room for dessert,positive,215
+Service,Service,i waited for 10 - 15 minutes for service,negative,216
+Service,Service,ordered a beer & was never served again,negative,216
+Food,Food,the food was ok,positive,217
+Service,Service,but the service was so poor that the food was cold by the time everyone in my party was served,negative,217
+Atmosphere,Cozy,the atmosphere was cozy,positive,219
+Service,Service,the service was horrible,negative,219
+Service,Service,we left without ever getting service,negative,220
+Food,Crab Cakes,best crab cakes in town,positive,221
+Taste,Cakes,something about these little devils gets better every time,positive,222
+Location,place,this place,neutral,223
+Transportation,boat,by boat,positive,223
+Food_Quality,Fish,great seasonal fish,positive,224
+Food_Quality,Seafood,and seafood,positive,224
+Atmosphere,Waterfront,with a classy waterfront setting,positive,224
+Food,Pizza,great pizza,positive,225
+Service,Service,poor service,negative,225
+Food,Pizza,love their pizza,positive,226
+Food,Pizza,especially the mushroom pizza,positive,226
+Food,Caesar Salad,also love their caeser salad,positive,227
+Service,Servers,"i do n ' t like the servers , one young woman in particular",negative,228
+Food_Quality,Breakfast,this place is famous for their breakfast,positive,229
+Food_Quality,Pizza,great pizza,positive,230
+Service,Service,poor service,negative,230
+Atmosphere,Service,if the service were n't so impersonal and corporate-like,negative,231
+Food,Breakfast,great breakfast,positive,232
+Food_Quality,Food,the food is great,positive,233
+Food_Preparation,Bloody Mary,they make a mean bloody mary,positive,233
+Food,Breakfast,breakfast here,positive,234
+Food_Quality,Eggs Benedict,crab eggs benedict,positive,235
+Food_Menu,Menu,all their menu items are a hit,positive,236
+Food_Menu,Mimosas,and they serve mimosas,positive,236
+Food,Chinese food,best chinese food,positive,237
+Atmosphere,restaurant,the ambiance of the restaurant was nice,positive,238
+Atmosphere,restaurant,good for fine dinning,positive,238
+Service,Staff,the staff was very nice and courteous,positive,239
+Service,Staff,and obviously chinese,neutral,239
+Food,Prawns,they were fresh and had a slight crispiness about the batter,positive,240
+Food,Walnuts,the walnuts were cut in smaller pieces and very crunchy and tasty,positive,240
+Food,Honey Walnut Prawns,best honey walnut prawns that we have ever tasted,positive,241
+Food,Brocollis,the brocollis were so fresh and tasty,positive,242
+Food_Quality,Brocolli,i would normally not finish the brocolli when i order these kinds of food,negative,243
+Food_Quality,Scallops and prawns,every piece was as eventful as the first one,positive,243
+Food_Quality,Scallops and prawns,so fresh and nicely cooked,positive,243
+Food,Portion size,chintzy portions,negative,244
+Food,Sushi,the sushi here is perfectly good,positive,245
+Price,Sushi,$5 a piece,negative,245
+Food,Sushi,slices of fish should be larger,negative,245
+Price,Restaurant,no pretense that this is a moderately priced restaurant,negative,245
+Service,Service,terrible service,negative,246
+Food,Food,food ok,positive,246
+Price,Price,pricey,negative,246
+Food,Food,"food wise, its ok",positive,247
+Food,Price,but a bit pricey for what you get,negative,247
+Restaurant,Restaurant,considering the restaurant isn't a fancy place,negative,247
+Location,Beach,the location to the beach,positive,248
+Location,Golden Gate Park,or golden gate park,positive,248
+Atmosphere,Restaurant,the open feel of the restaurant with glass walls on all sides,positive,249
+Food,Mackeral,amazing spanish mackeral special appetizer,positive,250
+Food,Sushi,perfect box sushi,positive,250
+Food,Eel,that eel with avodcao - - um um um,positive,250
+Food,Freshness,as usual the omikase did n ' t disappoint in freshness,positive,251
+Food,Creativity,although it scored low on creativity,negative,251
+Food,Selection,and selection,negative,251
+Food_Quality,Specialty Rolls,their specialty rolls are impressive,positive,252
+Food_Quality,Specialty Rolls,i ca n ' t remember what we had,neutral,252
+Food_Quality,Green Tea Creme Brulee,green tea creme brulee gets better each time i have it,positive,253
+Food_and_Drink,Sake,great selection of sakes,positive,254
+Price,Sushi,it is n't the cheapest sushi,negative,255
+Taste,Sushi,but has been worth it every time,positive,255
+Customer_Service,Customer Service,very poor customer service,negative,256
+Location,Charming location,charming location along the marina in long beach,positive,257
+Food,Average food,average food does not,neutral,257
+Customer Service,Very poor customer service,very poor customer service,negative,257
+Food,Diner,this diner had reasonably good food,positive,258
+Service,Restaurant Staff,the restaurant staff seemed completely indifferent to our presence,negative,258
+Service,Attitude,this attitude was reflected in the lack of service,negative,258
+Quality,Fish,The fish was fresh,positive,259
+Quality,Cutting,though it was cut very thin,negative,259
+Service,Service,great service,positive,260
+Food,Dungeness Crab,Dungeness crabs here !,positive,262
+Food_Quality,Seafood,high quality seafood dinners,positive,263
+Food_Variety,Dinners,seafood dinners,neutral,263
+Food,Dungeness Crabs,I love Dungeness crabs,positive,264
+Food,Dungeness Crabs,and at Ray's you can get them served in about 6 different ways!,positive,264
+Food,Family Platter,we shared the family platter,positive,265
+Food,Black Cod,i especially enjoyed the black cod in sake kasu,positive,265
+Food_Dining,Dessert,i ended the meal with the unusual dessert of a port and chocolate tasting,positive,266
+Service,Service,and the service was simply splendid,positive,267
+Food_and_Drinks,Drinks,great drinks,positive,268
+Food_and_Drinks,Food,"corn beef hash, coffee, b fast burritos, gluten free menu",positive,268
+Service,Service,the service is fantastic,positive,269
+Atmosphere,Place,at this fun place,positive,269
+Location,Neighborhood,best neighborhood,positive,271
+Food_Quality,Standalone,standby,neutral,271
+Location,Grammercy,in grammercy,positive,272
+Location,Union Square,union square,positive,272
+Location,East Village,east village,positive,272
+Food,Favorite Spot,this is my neighbors and my favorite spot,positive,272
+Music,Music,the music is great,positive,273
+Nightlife,Nightlife,no night better or worse,neutral,273
+Service,Bar,the bar tenders are generous with the pouring,positive,273
+Atmosphere,Atmosphere,and the lighthearted atmosphere will lifts you spirits,positive,273
+Food,Cheese Fries,the cheese fries are awesome,positive,274
+Food,Food,good food,positive,275
+Service,Service,great service,positive,275
+Price,Price,average prices,neutral,275
+Atmosphere,Decor,i was taken aback by their incredible wood decor,positive,276
+Sound,music,"the music playing was very hip, 20-30 something pop music",positive,277
+Sound,subwoofer,"but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner",negative,277
+Food,Shellfish,i got the shellfish and shrimp appetizer,positive,278
+Food,Shrimp,and shrimp appetizer,positive,278
+Taste,Appetizer,and it was alright,neutral,278
+Food_Quality,Seafood,it wasn't the freshest seafood ever,negative,279
+Food_Quality,Taste,but the taste,positive,279
+Food_Quality,Presentation,and presentation was ok,positive,279
+Food,Asparagus,i picked the asparagus,positive,280
+Food,Asparagus,which turned out to be incredible,positive,280
+Food,Asparagus,and perfectly prepared,positive,280
+Food,Steak,the 9 oz steak came next and it tasted great,positive,281
+Food,Steak,at least initially,positive,281
+Food_Quality,Steak,the steak was done to my exact liking ( medium rare ) and was nice and juicy,positive,282
+Food_Quality,Sauce,with either a peppercorn sauce or red wine reduction,negative,283
+Food_Quality,Taste,both were indistinguishable in taste,negative,283
+Food,Restaurant,the restaurant either used msg or a meat tenderizer on the steak,negative,284
+Food,Dinner,the desert was the perfect ending to an almost perfect dinner,positive,285
+Food,Restaurant,i would go back and eat at the restaurant again,positive,286
+Service,Servers,the servers were extremely attentive and very friendly,positive,287
+Food_and_Drink,Japanese food,good food - I honestly do n't know much about Japanese food at all.,positive,288
+Food_and_Drink,Sake,good sake,positive,288
+Service,Server,server made several sake suggestions which were very good,positive,289
+Food,Lobster,lobster 3 ways,positive,290
+Service,Waiter,the waiter was a bit unfriendly,negative,291
+Atmosphere,Restaurant,the feel of the restaurant was crowded,negative,291
+Design_Features,Bathroom,only one bathroom stall,negative,292
+General,Crowds,for such big crowds,negative,292
+Food,Creativity,after seeing the very creative menu,positive,293
+Food,Food,the food was good,positive,294
+Food,Price,definately overpriced,negative,294
+Price,Food,for the amount of food we got,negative,295
+Food,Pizza,my favortie pizza joint in seattle is zeeks pizza,positive,296
+Food_Quality,restaurant,they always enjoy and rave about it,positive,297
+Food,Pizza,the pizza is delicious,positive,298
+Food,Salad,the salads are fantastic,positive,298
+Service,Wait Staff,the wait staff,positive,299
+Service,Cooks,the cooks,positive,299
+Atmosphere,Decor,the simplicity of the decor,positive,300
+Atmosphere,Size,intimate feeling of a small restaurant,positive,300
+Food_Dining,Restaurant,mioposto cafe,positive,301
+Food,Pizza,we ' re ca n ' t say enough about their delicious gourmet pizza ’ s !,positive,302
+Food_Menu,Menu,you won't be disappointed by their menu,positive,303
+Food,Pizza,the pizza ' s are thin crust,positive,304
+Food,Pizza,the menu offers very creative combinations and toppings,positive,304
+Food,Pizza,try the pizza,positive,305
+Food,Ensalata,try the ensalata,positive,305
+Food_Quality,Pizza,the pizza ' s are not huge,negative,306
+Food_Quality,Pizza,the crust is thin,negative,306
+Service,Ordering,keep that in mind when you ' re ordering,neutral,306
+Food,Food,the food is sinful,negative,307
+Staff,Friendly,the staff was really friendly,positive,308
+Atmosphere,atmosphere,the atmosphere was great,positive,309
+Food_Quality,Pancakes,the specialty here is decadent pancakes,positive,310
+Food_Quality,Pancakes,i've been wowed every time,positive,310
+Food,Menu,nothing on the menu,positive,311
+Food,Eats,good eats,positive,312
+Experience,Place,i have been to this place,negative,313
+Recommendation,Place,it is bad,negative,313
+Food_Quality,Fish,when the chefs decide to use fish that ' s half - way decent,neutral,314
+Food,Dinner,spent tons of money on a chef special dinner,negative,315
+Atmosphere,Atmosphere,the atmosphere is great,positive,316
+Atmosphere,Occasion,for any special occasion you might want to celebrate,positive,316
+Food,Dish,the best dish are the honey walnut prawns,positive,317
+Food,Fish,fancy pieces of exotic fish,negative,318
+Food,Price,$ 100 dollar plate,negative,318
+Service,Service,the service is really attentive and charming,positive,319
+Service,Service,the service was excellent,positive,320
+Food_Drink,Coffee,the coffee was good even by starbucks standards,positive,320
+Food_Drink,Food,and the food was outstanding,positive,320
+Food_Quality,restaurant,this delightful restaurant,positive,321
+Food_Variety,restaurant,on 2nd street,neutral,321
+Food_Taste,restaurant,wow what a great evening we had,positive,321
+Food,Food,"the food is fantastic, authentic, delicious",positive,322
+Food,Price,"and very, very affordable",positive,322
+Design_Features,Decor,the decor was beautiful and unique,positive,323
+Atmosphere,Vibe,there was a really nice vibe about the place,positive,324
+Atmosphere,Music,good music,positive,324
+Atmosphere,People,happy looking people,positive,324
+Service,Server,our server was very professional and friendly,positive,325
+Food_Quality,Restaurant,to the owners of open sesame . . . bravo . . . i ca n ' t wait to come back to dine at your restaurant !,positive,326
+Food,Everything,everything on the menu,positive,328
+Service,Waiters,the waiters are very experienced and helpful,positive,329
+Service,Waiters,with pairing your drink choice to your food tastes or vice versa,positive,329
+Food,Sushi,the sushi is as fresh as it comes,positive,330
+Atmosphere,Ocean,you ' d think ocean was in their backyard,positive,330
+Food_Quality,Taste,good tasting,positive,331
+Food_Quality,Smell,without the fish taste or smell,positive,331
+Food_Quantity,Portion size,large portions,positive,331
+Creativity,Sushi,creative sushi dishes,positive,331
+Food,Pizza,big thick pepperoni pizza,positive,332
+Food,Pepperoni,the pepperoni ' s cut real thick,positive,333
+Food,Pizza,"the pizza itself is not exactly the best i ' ve had ever , but still pretty good . ",positive,334
+Food,Food,food was good,positive,335
+Food,Food,and appetizing,positive,335
+Food_Quantity,Food,portions was just enough for me,positive,336
+Food_Quantity,Food,but may not be for a big eater,negative,336
+Food,Menu,fair menu selection,neutral,337
+Food,Appetizer,the appetizer was interesting,positive,338
+Food,Creme Brulee,but the creme brulee was very savory and delicious,positive,338
+Weather,outside,if it ' s nice outside,positive,340
+Service,table,request for a table in the balcony,positive,340
+Atmosphere,Place,it ' s a great place,positive,341
+Atmosphere,People,to people watch,neutral,341
+Food,Food,exeptional food,positive,342
+Service,Seating,we were seated right away,positive,343
+Atmosphere,Privacy,the table was private and nice,positive,343
+Service,Service,the service was exceptional,positive,344
+Service,Waiter,sometime there was a feeling that we were served by the army of friendly waiters,positive,344
+Food,Food,the food was very good,positive,345
+Food,Filet Mignon,filet mignon was probably the best i ' ve ever try,positive,345
+Food_Quality,Portion size,the portions are big though,positive,346
+Food_Quantity,Portion size,so do not order too much,negative,346
+Sound,Music,groovy music,positive,347
+Atmosphere,Dinner,the dinner casual,positive,347
+Bathroom,Bathroom Attendant,there was a bathroom attendant in the restroom,negative,348
+Bathroom,Odd,which was odd,negative,348
+Design_Features,Bathroom,the bathroom itself is very small with two toilets and only one sink,negative,349
+Cleanliness,Bathroom,the girl was staying totally on the way hanging out paper towels from the dispenser,negative,349
+Food,Taste,mercedes restaurant is so tasty,positive,350
+Service,Service,the service is undeniably awesome,positive,350
+Food_Quality,Catering,the catering is out of this world,positive,351
+Food_Quality,Soup,Raouls chicken vegetable soup rocks my world,positive,351
+Food_and_Drinks,Drinks,drinks are suberb,positive,352
+Location,Country,i feel like i am in a third world country,negative,352
+Atmosphere,Snooze,the presentation of snooze is excellent,positive,353
+Atmosphere,Snooze,you feel more sophisticated just for being there,positive,353
+Food,Snooze,peel back the layers and you have an overpriced ihop,negative,353
+Food,Snooze,with a high brow menu,negative,353
+Food_and_Drink,Orange Juice,8 - 10 oz of orange juice,positive,354
+Food_and_Drink,Orange Juice,$ 3,positive,354
+Food_and_Drink,Serve,"they serve it in a tall, skinny hour-glass shaped glass",negative,355
+Food_and_Drink,Disguise,to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket,negative,355
+Food_Menu,Menu,their menu was so unique,positive,356
+Service,Service,i should have just asked for the check,negative,356
+Food,Pancakes,the pancakes were certainly inventive,positive,357
+Food,Pancakes,$ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced,negative,357
+Food,Pancakes,the pancakes should be larger,negative,358
+Food,Pancakes,at least 8 ' ',negative,358
+Food,Pancakes,to justify the expense,negative,358
+Food,Pancakes,with the unique offerings,positive,358
+Food,Eggs,i had to send back my eggs for a simple request of breaking the yokes before cooking,negative,359
+Food,Meal,"i had to send back my eggs for a simple request of breaking the yokes before cooking, and would have had to send them back again if i had n ' t rejected the meal all together",negative,359
+Operation_Performance,Eggs,in the process of attempting to fix the eggs,negative,360
+Operation_Performance,Dish,they broke something else in the dish,negative,360
+Food,Pancakes,4 small pancakes,positive,361
+Food,Burrito,a breakfast burrito,positive,361
+Food,Orange Juice,an orange juice,positive,361
+Food,Iced Tea,an iced tea,positive,361
+Food,Water,i had water,positive,361
+Food_Quality,Dinner,my dinner at ray ' s boathouse last friday,positive,363
+Food_and_Service,Food,i had suspected that the accolades were more due to the scenery than to the food,negative,364
+Food_and_Service,Service,i had suspected that the accolades were more due to the scenery than to the service,negative,364
+Views,Views,the views are only the third - best thing,negative,365
+Best Thing,Best Thing,about ray ' s !,positive,365
+Service,Server,"to start things off, our lovely server brooke was quickly on hand to take my drink order",positive,366
+Food_Quality,Shilshole Sampler,we splurged on the shilshole sampler,positive,367
+Food_Quality,White Gulf Prawns,enormous white gulf prawns,positive,367
+Food_Quality,Smoked Albacore Tuna,smoked albacore tuna,positive,367
+Food_Quality,Ray's Fantastic Manila Clams,ray's fantastic manila clams seasoned with dill,positive,367
+Food_Quality,Scallops,scallops in a tasty soy dressing,positive,367
+Food_Quality,Dungeness Crab,tiny pile of dungeness crab atop a sublime butter sauce,positive,367
+Food_Quality,Scallops,seared alaskan sea scallops,positive,368
+Food_Quality,Chard,chard,positive,368
+Food_Quality,Artichoke Hearts,artichoke hearts,positive,368
+Food_Quality,Fennel,fennel,positive,368
+Food_Quality,Pecorino Toscano,pecorino toscano,positive,368
+Food_Quality,Scallops,the scallops are apparently cooked in a black olive butter which really makes them unique,positive,369
+Food_Quality,Scallops,( not to mention tasty ),positive,369
+Food,Grilled Alaskan King Salmon,grilled alaskan king salmon,positive,370
+Food,Creamed Washington Russet Potatoes,delectable creamed washington russet potatoes,positive,370
+Food,Crisp Green Beans,crisp green beans,positive,370
+Food,Taste,"I had a taste of all three items on her plate, ",positive,371
+Food,Quality,and they were superb.,positive,371
+Service,Server,our server continued to be attentive throughout the night,positive,372
+Atmosphere,Ray's,who thinks that ray's is an appropriate place to take young children for dinner?,negative,372
+Service,Server,our wonderful server,positive,373
+Food,Food,food made the experience a very positive one,positive,373
+Food,Restaurant,do n't leave the restaurant without it,positive,376
+General,Place,This place,positive,378
+Customer Service,attitude,snotty attitude,negative,379
+Service,Rude,we were treated very rudely here one time for breakfast,negative,380
+Operation_Performance,Waiting,we never had to wait more than 5 minutes,positive,381
+Quality,French Fries,they are not greasy or anything,positive,382
+Food,Pagoda,pagoda,negative,384
+,,i will not go back,negative,385
+Sentiment,Return,i will never return again,negative,386
+General,Experience,it was absolutely amazing,positive,387
+Activities,Weekend,this coming weekend,positive,389
+Food,Meal,finally a meal that you will remember for a long time,positive,392
+Operation_Performance,Overall,very disappointing,negative,393
+Service,restaurant,i took my parents here for their anniversary,negative,394
+Operation_Performance,Overall,very disappointed,negative,396
+Service,Sake,we were then charged for their most expensive sake ( $ 20 + per serving ) when we in fact drank a sake of less than half that price,negative,397
+General,Charming Time,you are bound to have a very charming time,positive,398
+Operation_Performance,All,it is not worth going at all and spend your money there ! ! !,negative,400
+Price,Mexican,pretty cheap for sit down mexican,positive,401
+Location,Downtown,and downtown,positive,401
+Recommendation,Area,if you ' re in the area,positive,402
+Recommendation,Disappointment,you should n ' t be disappointed,negative,402
+Operation_Performance,CPU,it has a slow processor,negative,403
+Service,Order Taking,took forever to get our order taken,negative,404
+Service,Water Refills,water refills were too much to ask for,negative,404
+Service,Bill,we asked for our bill,positive,404
+General,,i do n ' t know if i ' ll be back . . . .,negative,405
+Service,Waiting Time,its worth the wait,positive,407
+Service,Notification,especially since they ' ll give you a call when the table is ready,positive,407
+Entertainment,Bingo,to play bingo,positive,408
+Entertainment,Watching the game,and watch the sox game,positive,408
+General,It,it was a blast,positive,408
+Experience,Place,been there lots since and its always a good time,positive,410
+Housing,Home,i found a new home on second avenue,positive,411
+none,none,just go there and see for yourself,none,412
+General,Guys,kudos to these guys,positive,414
+Home,Home,i found a new home,positive,415
+Home,Lease,with a long lease,positive,415
+Atmosphere,Crowd,unless you are just stopping in for a few drinks,negative,416
+Recommendation,Place,i would n't recommend going here,negative,416
+Operation_Performance,CPU,you are likely to be disappointed,negative,417
+Atmosphere,Romantic,it was romantic,positive,418
+Atmosphere,Nice,even nice,positive,418
+Atmosphere,Italy,reminded me of italy,positive,418
+Atmosphere,Mediterranean,had artwork and music that kept up the feeling of being in a mediterrean villa,positive,418
+Recommendation,Price,I recommend it for a night when you want to splurge!,positive,419
+Recommendation,Price,( it was a bit expensive ),negative,419
+General,Prices,the prices are also quite reasonable,positive,420
+Location,Beverly Center,tucked away over by the beverly center,positive,422
+Food,Indian,you routinely see indian families and friends dining there,positive,423
+Service,Places,"normally, places ask how hot you want it, but they didn't",negative,424
+Food,Mildness,i should have thought to bring it up but never expected the food to be that mild,negative,425
+Food,To-Go,you can order to go,positive,428
+Food,Back to office,if you have to get back to the office too,positive,428
+Food,Lebanese,Lebanese food,positive,429
+Food,Open Sesame,"I've been to Open Sesame only once, ",positive,430
+Food,Open Sesame,but I'm still reeling from the experience!,positive,430
+Food,Taste,tastly,positive,431
+Food,Flakiness,flaky,positive,431
+Food,Side Dishes,we ' ve just not gotten some side dishes we ' ve ordered,negative,432
+Service,Drinks,we waited over 30 minutes for our drinks,negative,433
+Service,Food,we waited over 1 1 / 2 hours for our food,negative,433
+Operation_Performance,CPU,it has a slow processor,negative,434
+Food,restaurant,dining at a completely different restaurant,positive,435
+Experience,Returning,we have since returned,positive,436
+Experience,Great experience,also had a great experience,positive,436
+Food,Small plates,sampling more small plates,positive,436
+Food,Variety,a variety of the beer,positive,436
+Drink,Beer,the beer,positive,436
+Drink,Temperature,cold and good,positive,436
+Service,Waiter,"we did have the same waiter the second time, ",positive,437
+Service,Service,so maybe the service is spotty and our luck is good.,neutral,437
+Entertainment,Band,sunday afternoons there is a band playing,positive,438
+Entertainment,Fun,and it is lots of fun,positive,438
+Atmosphere,restaurant,one of the best places you could ever eat,positive,440
+Atmosphere,restaurant,what once was one of the best places you could ever eat,negative,440
+General,food,you could ever eat,positive,440
+General,Scooner,i hope one day scooner or later returns to what it once was,positive,441
+Operation_Performance,CPU,"untill this happens , my advice is to stay away .",negative,442
+Food,Ray's,Ray's rates as the place we always go back to,positive,444
+Sentiment,liked,i liked it,positive,445
+Food_Quality,Food,"it was so much though that i could barely finish but i did , since it was delicious",positive,446
+Food,freshness,as far as the freshness is concerned,positive,451
+Money,Price,$ 6 with tip,positive,454
+Service,Waiting Time,you might have to wait for couple hours,negative,456
+Service,Cellphone Number,they do take your cellphone numbers,negative,457
+Service,Hang Out,so that you can go hang out somewhere else,negative,457
+Service,Cellphone,till they call you up on your cellphone,negative,457
+Restaurant_Business,Compliment,"That's a huge compliment, ",positive,458
+Restaurant_Business,Business,"especially in the fickled restaurant business, ",neutral,458
+General,Expression,. . . enough already!,negative,458
+Service,Valet Parking,there ' s also valet parking,positive,459
+Location,Cozy Spot,a cozy spot for 2,positive,460
+Location,View of the City,with a view of the city,positive,460
+Longevity,Murphy's,Murphy's has been around for over 25 years,positive,461
+Experience,Friend,i went there with a friend from out of town,positive,463
+Experience,Impressed,we were both very impressed,positive,463
+Price,Price,the price was right too,positive,464
+Experience,Place,i ' d go back there,positive,465
+Service,Meal,once seated it took about 30 minutes to finally get the meal,negative,467
+Design_Features,Kid-Friendly,the prior reviews said kid friendly,positive,468
+Design_Features,Kid-Friendly,with two young children,positive,468
+Food,Cooking,the place is the next best thing to my moms cooking,positive,470
+Operation_Performance,Cut to the chase,this is amazing,positive,473
+Atmosphere,unpretentious,it ' s unpretentious,positive,474
+Atmosphere,underground,and underground,positive,474
+Food_and_Drink,Food,"it ' s fresh , welcoming , delicious , and relaxing .",positive,475
+Recommendation,Recommendation,i went here on a recommendation,positive,476
+Return,Return,will surely return time and time again,positive,476
+Food_Dining,Dining,good for late night dining,positive,479
+Food_Dining,Dining,last minute planning,positive,479
+Food_Dining,Dining,without reservations,positive,479
+Sentiment,love,love it every time,positive,480
+Customer_Service,Company,never had one single problem there,positive,481
+Food,Seafood,seafood plus the staff,positive,482
+Food_Dining,Dining,this was great dining experience,positive,483
+Recommendation,Danny Gans,do n't miss this one,positive,484
+Location,Mirage,staying at the Mirage,neutral,484
+Service,Order,"even then , the order was not correct and we were still waiting for a couple items",negative,486
+Service,Waitress,we had a very hard time getting the waitress' attention,negative,487
+Service,Manager,and finally had to get up and go inside to speak to a manager,positive,487
+Service,Owner,as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill,negative,488
+Service,Bill,when the bill came,negative,489
+Service,Discount,he only took the discount off the food and not the drinks,negative,489
+Service,He,it was clear he didn't really care,negative,490
+Recommendation,,– save yourself the waste of time & do not visit .,negative,491
+Service,Waiter,after sitting there with my empty glass for over 20 minutes,negative,492
+Service,restaurant,i emailed the restaurant about the non existent service,negative,493
+Website,link,there is a link for a give away that does n ' t work,negative,493
+Communication,Customer Service,i never heard back from anyone,negative,494
+Service,Bartender,the bar keep had made only 2 drinks & kept telling us she ' d be right with us,negative,495
+General,,always a winner,positive,497
+Service,Customer Service,she does n ' t make you feel welcome,negative,498
+Service,Customer Service,treats you like an annoyance,negative,498
+Personality,Friendly,she is very friendly with certain people,positive,499
+Personality,Friendly,making it even more annoying,negative,499
+Management,Management,management should really take notice,negative,500
+Staff,Waitstaff,and train their waitstaff,neutral,500
+Staff,Manners,and teach them some proper manners,neutral,500
+Food,Food Network,they have been featured on the food network,positive,501
+Food,Food,and they deserve it,positive,501
+Sound,Sound,you can easily hear him though so it was a pleasant sound,positive,503
+Sound,Sound,and not overbearing,negative,503
+Food,Food,the food came fast and all together,positive,505
+Food,Food,i like that,positive,505
+Service,Service,i hate the pretentiousness of things coming in one after the other,negative,505
+Food,Food,yummy,positive,506
+Food,Food,I love it,positive,506
+Taste,Chewy,not chewy at all,negative,507
+Food,Mango Ginger Creme Brulee,for desert we had the mango ginger creme brulee,positive,508
+Taste,Food,melt in your mouth,positive,509
+Food,Restaurant,we are for sure coming back to this restaurant,positive,510
+Food_Dining,Eating,it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel,negative,511
+Food_Dining,Eating,but they are definitely one you dont want to miss,positive,511
+Location,San Jose,esp if your in downtown san jose,positive,511
+Price,Dinner,we easily spent more than $ 40 per person,negative,512
+Food,Dinner,were still hungry,negative,512
+Price,Restaurant,This restaurant,negative,513
+Service,Waiting Time,we were told that it ' d be a 30 minute wait,negative,514
+Service,Restaurant,we were seated at one of the tables that was available 30 minutes ago,negative,515
+Service,Food,"we ordered 4 appetizers, the food did n't arrive until 45 minutes later",negative,517
+Food_Dining,Bread,they do n ' t have bread service,negative,519
+Service,teapot of hot water,my wife also ordered a teapot of hot water,neutral,520
+Service,to actually bring it,it was n't a priority for them to actually bring it,negative,520
+Customer Service,Customer Service,you do n't rate high on their 'service scale',negative,521
+Location,restaurant,its great if you spent the day there and did n ' t want to drive to eat,positive,522
+Location,Parking,parking is reasonably good,positive,523
+Location,Parking,they have their own lot,positive,523
+Location,Parking,you can park in the park nearby,positive,523
+General,,always good,positive,524
+Service,Seating,we were quickly seated,positive,525
+Service,Serving,and served,positive,525
+Service,Food,our food was dropped off without comment,negative,526
+Service,Stopping by table,no one stopped by the table,negative,527
+Service,Delivery,"when we finally were able to flag someone down, it was someone entirely different from the person who had dropped off the food",negative,528
+Service,Ordering,who was also not the same person who had taken our order,negative,528
+Service,Manager,a brief conversation with the manager at the end of the meal,negative,529
+Service,Manager,to say we had been ` ` blown off ' ' would be an understatement,negative,529
+Service,Waitress,the waitress who had flown off in a rage,negative,531
+Service,Promise,she promised to speak to the waitress,positive,531
+Service,Name,"but we could hardly take her promise seriously , seeing as she had n ' t bothered to get the waitresses name",negative,531
+Food,Sushi,he / she has an urge for sushi,positive,533
+Restaurant,Place,then this might be the place,neutral,533
+Value,Price,and they give good quantity for the price,positive,534
+Food_and_Drink,Dinner,we picked rays for dinner,positive,535
+Recommendation,Local Fun,"seriously, you can't go wrong",positive,538
+Taste,Mouthfeel,my mouth felt very dry afterwards,negative,539
+Taste,Taste,i had that signature ? msg ? taste lingering in my throat after i left the restaurant,negative,539
+Food_Quality,Cupcakes,they came in their own nifty take out box and with some homemade frosting,positive,540
+Food_Quality,Cupcakes,very light and not - too - sweet,positive,540
+Food_Dining,Dinner,the dinner only took us about an hour,positive,541
+Food_Dining,Prices,the prices were alright for the strip,positive,541
+Fashion,Clothing,just remember to dress a little urban - chic so you don ? t look too far out of place,positive,542
+Price,Laptop,This laptop is overpriced,negative,544
+Service,Table,waited 35 minutes for a table for 8,negative,545
+Service,Crowd,which was ok for such a big crowd,positive,545
+General,Not sure,not sure,negative,546
+General,Would go back,if i would go back,negative,546
+Service,Staff,"they are n't the most talkative, ",negative,548
+Service,Staff,"but everytime i've been there they have been very busy, ",positive,548
+Service,Staff,which probably accounts for the lack of conversation.,neutral,548
+Food,Feeling,you never feel icky and stuffed after you eat there,positive,551
+Food,Pizza,the pizza ' s are light and scrumptious,positive,552
+Operation_Performance,Waiting Time,had to wait thirty minutes to get in the door on a tuesday morning,negative,554
+Operation_Performance,Waiting Time,but it was so worth it,positive,554
+Food_and_Drink,Breakfast,enjoy more than your average breakfast,positive,555
+Atmosphere,Friends,go with some friends,positive,555
+Service,Wait Time,wait the half hour or so,negative,555
+Sentiment,Great Review,i do n ' t know why anyone would want to write a great review about this place,negative,556
+Operation_Performance,CPU,donot go !,negative,557
+Service,Seating,we waited for an hour to be seated,negative,559
+Operation_Performance,Wait,it was worth the wait,positive,560
+Operation_Performance,Waiting Time,plan on waiting 30 - 70 minutes,negative,561
+Service,Service,will definitely be back,positive,562
+Food,Food,delicious,positive,563
+Experience,Restaurant,i probably would n't go back though,negative,566
+Price,Restaurant,i do n't know if it's worth it,negative,566
+,,maybe i ' ll go back once more many years from now when i ' ve forgotten i went there already,,567
+Location,Balcony,sit in the balcony,positive,568
+Service,Service,although the service could be improved,negative,570
+Service,Server,our server came by a couple times,positive,571
+Food_and_Drink,Drinks,our drinks kept coming,positive,571
+Service,check,the check that did not exceed my expectations,positive,573
+Experience,Feeling,I felt awkward,negative,574
+Planning,Next time,next time,neutral,574
+Location,Bathroom,went to the casino bathroom,neutral,574
+Atmosphere,Place,this place rocks,positive,575
+Food,Chips and Salsa,the chips and salsa are so yummy,positive,576
+Prices,Prices,and the prices are fabulous,positive,576
+Atmosphere,atmosphere,the atmosphere is aspiring,positive,577
+Decor,decor,the decor is festive and amazing,positive,577
+Service,Manager,to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was,negative,580
+Dining,Kids,two rascally kids were seated near us for the first part of our dinner,negative,581
+Dining,Kids,they were replaced by a delightful preteen,positive,581
+Dining,Preteen,delightful preteen who pretended to gag every time seafood was mentioned at her table,negative,581
+Food,Ray's Boathouse,"all considered, I have to say that Ray's Boathouse is deserving of its title as a Seattle institution.",positive,582

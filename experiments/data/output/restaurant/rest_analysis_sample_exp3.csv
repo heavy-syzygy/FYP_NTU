@@ -1,0 +1,11 @@
+,index,category,aspect,segment,sentiment,review_id
+0,211,Food_and_Drink,Meal,and mediocre meal,negative,123
+1,679,Operation_Performance,CPU,it has a slow processor,negative,403
+2,220,Food_and_Drink,Wine,has the city's best & most diverse wine list,positive,127
+3,340,Food,Sushi,you love expertly cut fish,positive,197
+4,389,Food,Pizza,especially the mushroom pizza,positive,226
+5,833,Service,Manager,a brief conversation with the manager at the end of the meal,negative,529
+6,379,Food,Crab Cakes,best crab cakes in town,positive,221
+7,636,Food_Quality,White Gulf Prawns,enormous white gulf prawns,positive,367
+8,739,Food,freshness,as far as the freshness is concerned,positive,451
+9,191,Staff,Friendly,the staff are friendly,positive,111
