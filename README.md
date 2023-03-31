@@ -7,6 +7,7 @@ For more info: See fyp_report.pdf
 
 ## WebApp
 Flask is used to develop the webapp and Plotly is used for generation of graphs.  
+
 Using the webapp:
 1) Download main_app and pip install requirements.txt file. (recommended to set up venv)
 2) Add in key for OPENAI to use gpt-3 under ABSA.py file. 
