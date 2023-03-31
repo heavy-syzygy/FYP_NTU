@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href='/staticFiles/main.css' />
+    <div class="navbar">
+      <a href={{ url_for('index') }}>Home</a>
+      <a href={{ url_for('showData') }}>Data</a>
+      <a href={{ url_for('settings') }}>Settings</a>
+      <div class="dropdown">
+        <button class="dropbtn">Graphs
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href={{ url_for('graphPol') }}>Polarity</a>
+          <a href={{ url_for('graphCat') }}>Categories</a>
+          <a href={{ url_for('graphTerm') }}>Terms</a>
+          <a href={{ url_for('graphCatPol') }}>Cat vs Pol</a>
+          <a href={{ url_for('graphTermPol') }}>Term vs Pol</a>
+          <a href={{ url_for('graphCatTerm') }}>Cat vs Term</a>
+        </div>
+      </div>
+    </div>
+    <title>BizSA</title>
+  </head>
+  <body>
+    <h1>BizSA</h1>
+    <p>Upload CSV</p>
+
+    <form method="POST" enctype="multipart/form-data" action="/">
+        <input style="font-size:20px;" type="file" id="myFile" name="uploaded-file" accept=".csv">
+        <input style="background:red;color:white;font-size:20px;" type="submit" value="Upload file">
+    </form>
+  <br>
+  <p style="color:DarkSlateGray;">Click to view and analyse data</p>
+  <form action="/show_data">
+        <input style="background:green;color:white;font-size:20px;" type="submit" value="Show CSV" />
+    </form>
+  </body>
+</html>

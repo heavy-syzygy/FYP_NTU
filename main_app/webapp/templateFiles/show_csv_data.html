@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href='/staticFiles/main.css' />
+    <div class="navbar">
+      <a href={{ url_for('index') }}>Home</a>
+      <a href={{ url_for('showData') }}>Data</a>
+      <a href={{ url_for('settings') }}>Settings</a>
+      <div class="dropdown">
+        <button class="dropbtn">Graphs
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href={{ url_for('graphPol') }}>Polarity</a>
+          <a href={{ url_for('graphCat') }}>Categories</a>
+          <a href={{ url_for('graphTerm') }}>Terms</a>
+          <a href={{ url_for('graphCatPol') }}>Cat vs Pol</a>
+          <a href={{ url_for('graphTermPol') }}>Term vs Pol</a>
+          <a href={{ url_for('graphCatTerm') }}>Cat vs Term</a>
+        </div>
+      </div>
+    </div>
+        <title>BizSA</title>
+  </head>
+  <body>
+    <p>Top 10 data rows</p>
+
+{{ data_var|safe }}
+    <p> </p>
+    <p> </p>
+    <form action="/loading" method="POST" align="middle">
+      <input style="background:darkred;color:white;font-size:20px;" type="submit" value="Start Analysis" >
+    </form>
+  <body>
+
+</html>

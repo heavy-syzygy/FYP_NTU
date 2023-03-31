@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href='/staticFiles/main.css' />
+    <title>BizSA</title>
+</head>
+  <body>
+    <div class="navbar">
+      <a href={{ url_for('index') }}>Home</a>
+      <a href={{ url_for('showData') }}>Data</a>
+      <a href={{ url_for('settings') }}>Settings</a>
+      <div class="dropdown">
+        <button class="dropbtn">Graphs
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href={{ url_for('graphPol') }}>Polarity</a>
+          <a href={{ url_for('graphCat') }}>Categories</a>
+          <a href={{ url_for('graphTerm') }}>Terms</a>
+          <a href={{ url_for('graphCatPol') }}>Cat vs Pol</a>
+          <a href={{ url_for('graphTermPol') }}>Term vs Pol</a>
+          <a href={{ url_for('graphCatTerm') }}>Cat vs Term</a>
+        </div>
+      </div>
+    </div>
+      <h1>Visualise Data</h1>
+
+</div>
+  </body>
+    <body>
+      <div id='chart' class='chart'”></div>
+    </body>
+        <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+          <script type='text/javascript'>
+              var graphs = {{graphJSON | safe}};
+                Plotly.plot('chart',graphs,{});
+        </script>
+</html>

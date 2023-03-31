@@ -1,0 +1,101 @@
+,index,text,term_true,cat_true,pol_true
+0,337,fair menu selection .,['FOOD'],['STYLE_OPTIONS'],['1']
+1,336,"portions was just enough for me , but may not be for a big eater .",['FOOD'],['STYLE_OPTIONS'],['1']
+2,357,the pancakes were certainly inventive but $ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .,"['FOOD', 'FOOD']","['STYLE_OPTIONS', 'PRICES']","['2', '0']"
+3,314,maybe it is good for that one night once in a blue moon when the chefs decide to use fish that ' s half - way decent .,['FOOD'],['QUALITY'],['0']
+4,222,– thats a big statement considering i ' ve been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .,['FOOD'],['QUALITY'],['2']
+5,450,two thumbs up !,['FOOD'],['QUALITY'],['2']
+6,118,"also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !","['FOOD', 'FOOD']","['QUALITY', 'STYLE_OPTIONS']","['2', '2']"
+7,110,my best friend had the chicken shawarma and she still raves about it being the best anywhere !,['FOOD'],['QUALITY'],['2']
+8,235,their crab eggs benedict is addicting .,['FOOD'],['QUALITY'],['2']
+9,142,it ' s a great place to enjoy food and meet friends .,"['FOOD', 'RESTAURANT']","['QUALITY', 'MISCELLANEOUS']","['2', '2']"
+10,560,it was worth the wait .,['RESTAURANT'],['GENERAL'],['2']
+11,236,"all their menu items are a hit , and they serve mimosas .","['FOOD', 'DRINKS']","['QUALITY', 'STYLE_OPTIONS']","['2', '2']"
+12,87,never too crowded and always great service .,"['SERVICE', 'RESTAURANT']","['GENERAL', 'MISCELLANEOUS']","['2', '2']"
+13,580,to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .,"['SERVICE', 'SERVICE']","['GENERAL', 'GENERAL']","['0', '2']"
+14,211,"the only problem would be the wait , but we usually just have a drink in the front while waiting .",['SERVICE'],['GENERAL'],['1']
+15,117,"the side of potatoes is to die for , as is the labne ( yogurt dip ) .","['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['2', '2']"
+16,113,holy hummus !,['FOOD'],['QUALITY'],['2']
+17,81,– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,"['FOOD', 'FOOD', 'FOOD', 'FOOD']","['QUALITY', 'QUALITY', 'STYLE_OPTIONS', 'QUALITY']","['2', '2', '2', '2']"
+18,421,hidden little jem,['RESTAURANT'],['GENERAL'],['2']
+19,474,it ' s unpretentious and underground .,['AMBIENCE'],['GENERAL'],['2']
+20,379,snotty attitude,['SERVICE'],['GENERAL'],['0']
+21,453,perfect on a cold day .,['FOOD'],['QUALITY'],['2']
+22,244,chintzy portions,['FOOD'],['STYLE_OPTIONS'],['0']
+23,91,nice food but no spice !,"['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['2', '0']"
+24,164,one of the best sushi place in town .,['RESTAURANT'],['GENERAL'],['2']
+25,504,not too fine thought that you feel uncomfortable and have to dress up .,['AMBIENCE'],['GENERAL'],['2']
+26,422,– tucked away over by the beverly center .,['LOCATION'],['GENERAL'],['1']
+27,217,"the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .","['FOOD', 'SERVICE']","['QUALITY', 'GENERAL']","['1', '0']"
+28,436,"we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .","['DRINKS', 'DRINKS', 'RESTAURANT']","['QUALITY', 'QUALITY', 'GENERAL']","['2', '2', '2']"
+29,38,the service ranges from mediocre to offensive .,"['SERVICE', 'SERVICE']","['GENERAL', 'GENERAL']","['0', '0']"
+30,501,they have been featured on the food network and they deserve it .,['RESTAURANT'],['MISCELLANEOUS'],['2']
+31,233,the food is great and they make a mean bloody mary .,"['FOOD', 'DRINKS']","['QUALITY', 'QUALITY']","['2', '2']"
+32,6,i ' ve been to this restaurant over a dozen times with no complaints to date .,['RESTAURANT'],['GENERAL'],['2']
+33,146,i had the kafta plate and i enjoyed it .,['FOOD'],['QUALITY'],['2']
+34,56,the best calamari in seattle !,['FOOD'],['QUALITY'],['2']
+35,144,enjoyed the food,['FOOD'],['QUALITY'],['2']
+36,205,"– as with most restaurants in seattle , mioposto ' s service was bad and the food was overpriced .","['SERVICE', 'FOOD']","['GENERAL', 'PRICES']","['0', '0']"
+37,483,– this was great dining experience .,['RESTAURANT'],['GENERAL'],['2']
+38,375,yum !,['FOOD'],['QUALITY'],['2']
+39,486,"even then , the order was not correct and we were still waiting for a couple items .",['SERVICE'],['GENERAL'],['0']
+40,251,"as usual the omikase did n ' t disappoint in freshness , although it scored low on creativity and selection .","['FOOD', 'FOOD']","['QUALITY', 'STYLE_OPTIONS']","['2', '0']"
+41,343,"we were seated right away , the table was private and nice .","['AMBIENCE', 'AMBIENCE', 'SERVICE']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+42,534,and they give good quantity for the price .,"['FOOD', 'FOOD']","['STYLE_OPTIONS', 'PRICES']","['2', '2']"
+43,546,not sure if i would go back .,['RESTAURANT'],['GENERAL'],['0']
+44,320,"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .","['SERVICE', 'DRINKS', 'FOOD']","['GENERAL', 'QUALITY', 'QUALITY']","['2', '2', '2']"
+45,488,as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .,['SERVICE'],['GENERAL'],['0']
+46,50,"food was fine , with a some little - tastier - than - normal salsa .","['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['2', '2']"
+47,536,this is the case at this gem .,['RESTAURANT'],['GENERAL'],['2']
+48,139,great open and friendly ambience .,"['AMBIENCE', 'AMBIENCE', 'AMBIENCE']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+49,562,will definitely be back .,['RESTAURANT'],['GENERAL'],['2']
+50,554,"– had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .","['RESTAURANT', 'RESTAURANT']","['MISCELLANEOUS', 'GENERAL']","['0', '2']"
+51,208,the only positive thing about mioposto is the nice location .,"['LOCATION', 'RESTAURANT']","['GENERAL', 'GENERAL']","['2', '0']"
+52,167,it ' s the perfect spot for a romantic date for 2 or a secret rendezvous !,"['RESTAURANT', 'AMBIENCE']","['MISCELLANEOUS', 'GENERAL']","['2', '2']"
+53,96,"even the chickpeas , which i normally find too dry , were good .",['FOOD'],['QUALITY'],['2']
+54,111,the staff are friendly and the decor was ethic and colorful .,"['SERVICE', 'AMBIENCE', 'AMBIENCE']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+55,204,poor customer service / poor pizza .,"['SERVICE', 'FOOD']","['GENERAL', 'QUALITY']","['0', '0']"
+56,145,food was good and cheap .,"['FOOD', 'FOOD']","['QUALITY', 'PRICES']","['2', '2']"
+57,62,definitely has one of the best jukebox ' s i ' ve seen in a long long time .,['AMBIENCE'],['GENERAL'],['2']
+58,199,bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : blue ribbon sushi .,['RESTAURANT'],['GENERAL'],['2']
+59,100,"best restaurant in the world , great decor , great customer service , friendly manager","['RESTAURANT', 'AMBIENCE', 'SERVICE', 'SERVICE']","['GENERAL', 'GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2', '2']"
+60,159,be sure to try the oyster roll .,['FOOD'],['QUALITY'],['2']
+61,35,i have eaten here three times and have found the quality and variety of the fish to be excellent .,"['FOOD', 'FOOD']","['QUALITY', 'STYLE_OPTIONS']","['2', '2']"
+62,226,"– love their pizza , especially the mushroom pizza .","['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['2', '2']"
+63,412,just go there and see for yourself .,['RESTAURANT'],['GENERAL'],['2']
+64,568,sit in the balcony,['AMBIENCE'],['GENERAL'],['1']
+65,18,fabulous italian food !,['FOOD'],['QUALITY'],['2']
+66,140,this place is charming and relaxing .,"['AMBIENCE', 'AMBIENCE']","['GENERAL', 'GENERAL']","['2', '2']"
+67,76,my g / f and i both agreed the food was very mediocre especially considering the price .,"['FOOD', 'FOOD']","['QUALITY', 'PRICES']","['0', '0']"
+68,331,"if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .","['FOOD', 'FOOD', 'FOOD']","['STYLE_OPTIONS', 'STYLE_OPTIONS', 'QUALITY']","['2', '2', '2']"
+69,478,well worth it,['RESTAURANT'],['GENERAL'],['2']
+70,397,we were then charged for their most expensive sake ( $ 20 + per serving ) when we in fact drank a sake of less than half that price .,['SERVICE'],['GENERAL'],['0']
+71,427,awesome find,['RESTAURANT'],['GENERAL'],['2']
+72,261,good sake selection .,['DRINKS'],['STYLE_OPTIONS'],['2']
+73,400,it is not worth going at all and spend your money there ! ! !,['RESTAURANT'],['GENERAL'],['0']
+74,216,i waited for 10 - 15 minutes for service ordered a beer & was never served again .,['SERVICE'],['GENERAL'],['1']
+75,191,"for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .","['FOOD', 'SERVICE']","['QUALITY', 'GENERAL']","['2', '2']"
+76,156,and the waiter suggested a perfect sake ! !,"['SERVICE', 'DRINKS']","['GENERAL', 'QUALITY']","['2', '2']"
+77,290,had many dishes but the best was the lobster 3 ways .,['FOOD'],['QUALITY'],['2']
+78,386,i will never return again .,['RESTAURANT'],['GENERAL'],['0']
+79,558,delicious,['FOOD'],['QUALITY'],['2']
+80,175,the atmosphere was just okay .,['AMBIENCE'],['GENERAL'],['1']
+81,274,"oh , and the cheese fries are awesome !",['FOOD'],['QUALITY'],['2']
+82,126,seattle ' s best winelist,['DRINKS'],['STYLE_OPTIONS'],['2']
+83,272,in grammercy / union square / east village this is my neighbors and my favorite spot .,['RESTAURANT'],['GENERAL'],['2']
+84,136,open & cool place with the best pizza and coffee,"['AMBIENCE', 'FOOD', 'FOOD']","['GENERAL', 'QUALITY', 'QUALITY']","['2', '2', '2']"
+85,63,"the food is great , the bartenders go that extra mile .","['FOOD', 'SERVICE']","['QUALITY', 'GENERAL']","['2', '2']"
+86,406,"everything you want and more , very fresh .","['FOOD', 'FOOD']","['QUALITY', 'STYLE_OPTIONS']","['2', '2']"
+87,237,best chinese food i have tasted in a long time,['FOOD'],['QUALITY'],['2']
+88,283,"it ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .","['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['1', '1']"
+89,308,the staff was really friendly .,['SERVICE'],['GENERAL'],['2']
+90,366,"to start things off , our lovely server brooke was quickly on hand to take my drink order .","['SERVICE', 'SERVICE']","['GENERAL', 'GENERAL']","['2', '2']"
+91,266,i ended the meal with the unusual dessert of a port and chocolate tasting . . . . yummy !,"['FOOD', 'FOOD']","['QUALITY', 'QUALITY']","['2', '2']"
+92,525,6pm on a sat before a broadway play and we were quickly seated and served .,['SERVICE'],['GENERAL'],['2']
+93,309,the atmosphere was great .,['AMBIENCE'],['GENERAL'],['2']
+94,367,"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .","['FOOD', 'FOOD', 'FOOD', 'FOOD']","['STYLE_OPTIONS', 'QUALITY', 'QUALITY', 'QUALITY']","['2', '2', '2', '2']"
+95,323,the decor was beautiful and unique .,"['AMBIENCE', 'AMBIENCE']","['GENERAL', 'GENERAL']","['2', '2']"
+96,418,"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .","['AMBIENCE', 'AMBIENCE', 'AMBIENCE']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+97,295,for the amount of food we got the prices should have been lower .,"['FOOD', 'FOOD']","['PRICES', 'STYLE_OPTIONS']","['0', '0']"
+98,498,she does n ' t make you feel welcome and treats you like an annoyance .,['SERVICE'],['GENERAL'],['0']
+99,462,addicting !,['RESTAURANT'],['GENERAL'],['2']

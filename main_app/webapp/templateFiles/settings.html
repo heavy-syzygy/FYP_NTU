@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href='/staticFiles/main.css' />
+    <div class="navbar">
+      <a href={{ url_for('index') }}>Home</a>
+      <a href={{ url_for('showData') }}>Data</a>
+      <a href={{ url_for('settings') }}>Settings</a>
+      <div class="dropdown">
+        <button class="dropbtn">Graphs
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href={{ url_for('graphPol') }}>Polarity</a>
+          <a href={{ url_for('graphCat') }}>Categories</a>
+          <a href={{ url_for('graphTerm') }}>Terms</a>
+          <a href={{ url_for('graphCatPol') }}>Cat vs Pol</a>
+          <a href={{ url_for('graphTermPol') }}>Term vs Pol</a>
+          <a href={{ url_for('graphCatTerm') }}>Cat vs Term</a>
+        </div>
+      </div>
+    </div>
+      <title>BizSA</title>
+  </head>
+  <body>
+    <p style="color:navy;">Configure Prompt Examples for GPT-3</p>
+
+    <p style="color:red;font-size:15px;">Note: For every text, there must be at least one set of (aspect, category, segment, sentiment) input</p>
+    <p style="color:red;font-size:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For every set of (aspect, category, segment, sentiment), there cannot be missing input in any one of them</p>
+    <p style="color:red;font-size:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do not press submit if above are not fulfilled (Else, default example will be used, see below)</p>
+    <p style="color:darkred;font-size:15px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For sentiment, input one of these: Postive, Neutral, Negative</p>
+    <form action="/settings", method="POST">
+      <fieldset style="border: 2px solid #4238ca; background: #f6f8ff; ">
+        <legend>First Example</legend>
+
+        <input type="text" placeholder="Text (e.g., This product is good and perform well. It is cheap too.)" name="First1" size="200"><br /><br />
+        <input type="text" placeholder="Aspect 1 (e.g. Product)" name="First2">&nbsp;&nbsp;<input type="text" placeholder="Category 1 (e.g. General)" name="First3">&nbsp;&nbsp;<input type="text" placeholder="Seg 1 (e.g. product is good)" name="First4">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 1 (e.g. Positive)" name="First5"><br /><br />
+        <input type="text" placeholder="Aspect 2 (e.g. Product)" name="First6">&nbsp;&nbsp;<input type="text" placeholder="Category 2 (e.g. Performance)" name="First7">&nbsp;&nbsp;<input type="text" placeholder="Seg 2 (e.g. perform well)" name="First8">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 2 (e.g. Positive)" name="First9"><br /><br />
+        <input type="text" placeholder="Aspect 3 (e.g. Product)" name="First10">&nbsp;&nbsp;<input type="text" placeholder="Category 3 (e.g. Price)" name="First11">&nbsp;&nbsp;<input type="text" placeholder="Seg 3 (e.g. It is cheap)" name="First12">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 3 (e.g. Positive)" name="First13"><br /><br />
+
+      </fieldset>
+
+      <fieldset style="border: 2px solid #4238ca; background: #f6f8ff; ">
+        <legend>Second Example</legend>
+
+        <input type="text" placeholder="Text (e.g., Good quality but high price.)" name="Sec1" size="200"><br /><br />
+        <input type="text" placeholder="Aspect 1 (e.g. Product)" name="Sec2">&nbsp;&nbsp;<input type="text" placeholder="Category 1  (e.g. Quality)" name="Sec3">&nbsp;&nbsp;<input type="text" placeholder= "Seg 1 (e.g. Good quality)" name="Sec4">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 1 (e.g. Positive)" name="Sec5"><br /><br />
+        <input type="text" placeholder="Aspect 2 (e.g. Product)" name="Sec6">&nbsp;&nbsp;<input type="text" placeholder="Category 2  (e.g. Price)" name="Sec7">&nbsp;&nbsp;<input type="text" placeholder="Seg 2 (e.g. high price)" name="Sec8">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 2 (e.g. Negative)" name="Sec9"><br /><br />
+        <input type="text" placeholder="Aspect 3" name="Sec10">&nbsp;&nbsp;<input type="text" placeholder="Category 3" name="Sec11">&nbsp;&nbsp;<input type="text" placeholder="Phrase 3" name="Sec12">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 3" name="Sec13"><br /><br />
+
+      </fieldset>
+
+      <fieldset style="border: 2px solid #4238ca; background: #f6f8ff; ">
+        <legend>Third Example</legend>
+
+        <input type="text" placeholder="Text (e.g., Website is made by BizSA.)" name="Third1" size="200"><br /><br />
+        <input type="text" placeholder="Aspect 1 (e.g. Website)" name="Third2">&nbsp;&nbsp;<input type="text" placeholder="Category 1 (e.g. Company)" name="Third3">&nbsp;&nbsp;<input type="text" placeholder="Seg 1 (e.g. Website is made by BizSA.)" name="Third4">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 1 (e.g. Neutral)" name="Third5"><br /><br />
+        <input type="text" placeholder="Aspect 2" name="Third6">&nbsp;&nbsp;<input type="text" placeholder="Category 2" name="Third7">&nbsp;&nbsp;<input type="text" placeholder="Seg 2" name="Third8">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 2" name="Third9"><br /><br />
+        <input type="text" placeholder="Aspect 3" name="Third10">&nbsp;&nbsp;<input type="text" placeholder="Category 3" name="Third11">&nbsp;&nbsp;<input type="text" placeholder="Seg 3" name="Third12">&nbsp;&nbsp;<input type="text" placeholder="Sentiment 3" name="Third13"><br /><br />
+
+      </fieldset>
+      <p></p>
+      <p></p>
+
+      <p style="color:darkred;font-size:15px;">To reset to default, submit empty fields.</p>
+      <p></p>
+      <input style="background:#3630a3;color:white;font-size:20px;" align="right" type="submit" value="Submit">
+    </form>
+
+    <p></p>
+    <p style="color:grey;font-size:15px;">Default Prompt Example:</p>
+    <p style="color:grey;font-size:15px;">This product is easy to use but expensive. It is still ok though.<br>{"aspect": "Product", "category": "Usability", "segment": "This product is easy to use", "sentiment": "Positive"}<br>{"aspect": "Product", "aspect": "Price", "segment": "expensive", "sentiment": "Negative"}<br>{"aspect": "Product", "category": "General", "segment": "It is still ok though", "sentiment": "Neutral"}</p>
+  <body>
+
+</html>

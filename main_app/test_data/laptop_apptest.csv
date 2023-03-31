@@ -1,0 +1,101 @@
+,index,text,term_true,cat_true,pol_true
+0,682,it ' s light enough to carry pretty much every where .,['LAPTOP'],['PORTABILITY'],['2']
+1,674,it seems pretty fast .,['LAPTOP'],['OPERATION_PERFORMANCE'],['2']
+2,384,"as much as i love the computer , and tout macbook to all my friends , for me , it stops here and now .","['LAPTOP', 'LAPTOP']","['GENERAL', 'GENERAL']","['2', '2']"
+3,62,"since it came with no user manual , i had to call asus customer support and got someone who knew all about windows 10 software but nothing about my asus notebook .",['SUPPORT'],['OPERATION_PERFORMANCE'],['0']
+4,361,my trusty windows 7 laptop was on its last leg and i opted to try something new .,['LAPTOP'],['GENERAL'],['1']
+5,99,i like the back lit keyboard .,['KEYBOARD'],['DESIGN_FEATURES'],['2']
+6,544,"as others have said , the only downside is the slow 5400 rpm 1 tb hard drive .",['HARD_DISC'],['OPERATION_PERFORMANCE'],['0']
+7,91,this does not really matter to me because the mx150 is enough for my needs .,['GRAPHICS'],['DESIGN_FEATURES'],['1']
+8,349,apple updates are easy .,['SOFTWARE'],['USABILITY'],['2']
+9,523,this laptop was great starting out of the box .,['LAPTOP'],['GENERAL'],['2']
+10,670,"for ~ $ 15 you can get a nice , fitted anti - glare screen protector that reduces the fingerprint / glare problems and gives you some piece of mind about protecting that gorgeous screen .","['DISPLAY', 'DISPLAY', 'DISPLAY']","['OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE', 'GENERAL']","['2', '2', '2']"
+11,78,"running grid benchmark , it got to a high 92 / 93 degrees c !",['LAPTOP'],['QUALITY'],['0']
+12,264,"the hdmi and usb ports are on the left side , the back has no ports at all , and , misery !",['PORTS'],['DESIGN_FEATURES'],['0']
+13,711,"and even with all of the new competition hitting the market with higher price points , the c302 still offers the best premium chrome os experience at a respectable price .","['LAPTOP', 'OS', 'OS']","['PRICE', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+14,488,"the keyboard is fantastic , but it ' s just a keyboard .",['KEYBOARD'],['GENERAL'],['2']
+15,249,"at $ 300 , this is a great purchase .",['LAPTOP'],['PRICE'],['2']
+16,751,i don ' t think you ' ll find a better laptop at this price point .,['LAPTOP'],['PRICE'],['2']
+17,250,"which leads me to my next point , the omnipresent comments about ` ` this feels like a $ 1000 computer ! ` `",['LAPTOP'],['PRICE'],['2']
+18,479,this is nothing more than an okay laptop to get you through basic work activities .,['LAPTOP'],['GENERAL'],['2']
+19,715,"the sound is rich and plenty loud enough , but it won ' t replace your music system .","['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']","['OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['0', '0']"
+20,19,clearly there is some kind of major defect here that acer has n ' t resolved .,['COMPANY'],['GENERAL'],['0']
+21,738,the screen is clear and bright and the system doesn ' t lag unless i have a large number of tabs open .,"['DISPLAY', 'DISPLAY', 'OS']","['DESIGN_FEATURES', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']","['2', '2', '2']"
+22,696,battery doesn ' t last nearly as long as advertised .,['BATTERY'],['OPERATION_PERFORMANCE'],['0']
+23,658,one day of use and the screen turns itself off and logs you out whenever it feels to do so .,['DISPLAY'],['OPERATION_PERFORMANCE'],['0']
+24,352,i like this machine quite a bit .,['LAPTOP'],['GENERAL'],['2']
+25,542,the charge doesn ' t last like the five hours it stated but instead last three hours .,['POWER_SUPPLY'],['OPERATION_PERFORMANCE'],['0']
+26,229,"hard reboot , reset , refresh + power , esc + refresh + power , charging , letting it drain , nothing brought it back to life .",['LAPTOP'],['USABILITY'],['0']
+27,521,"quite like this laptop so far , only writing this review so early from owning it to receive that nice msi headset .","['LAPTOP', 'MULTIMEDIA_DEVICES']","['GENERAL', 'GENERAL']","['2', '2']"
+28,109,the screen hinge is super strong and it ' s hard to imagine it breaking unless you dropped it .,['DISPLAY'],['QUALITY'],['2']
+29,506,the sound is really terrible and tinny .,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']","['OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['0', '0']"
+30,390,"first impressions , excellent looking laptop and very light !",['LAPTOP'],['DESIGN_FEATURES'],['2']
+31,671,i saw this c302 was announced at ces and was immediately drawn to it since it has the intel core m3 processor .,"['LAPTOP', 'CPU']","['GENERAL', 'GENERAL']","['2', '2']"
+32,683,"it starts up , runs without issues .",['OS'],['OPERATION_PERFORMANCE'],['1']
+33,165,battery could last longer .,['BATTERY'],['QUALITY'],['0']
+34,299,the thunderbolt ports are a nice thing to have on the mbp .,['PORTS'],['DESIGN_FEATURES'],['2']
+35,403,"asus , has a horrible reputation .",['COMPANY'],['GENERAL'],['0']
+36,83,"i can certainly say this is the best laptop i ' ve ever had ( but then again i ' ve only had 3 , and you would expect these things to improve over time , right ) .",['LAPTOP'],['GENERAL'],['2']
+37,325,yeah the new mac book is lighter and only a little small but the internals are a lot slower .,"['LAPTOP', 'HARDWARE']","['DESIGN_FEATURES', 'DESIGN_FEATURES']","['2', '0']"
+38,813,the backlit keyboard is awesome at night .,['KEYBOARD'],['DESIGN_FEATURES'],['2']
+39,481,"however , mine came with an annoying trackpad .",['KEYBOARD'],['GENERAL'],['0']
+40,797,"being able to use play store apps has been a huge plus and i ' m now so comfortable with google docs , i ' very already forgotten i even owned a windows laptop .",['SOFTWARE'],['USABILITY'],['2']
+41,388,the ` ` ssd drive ` ` is not user replaceable .,['HARD_DISC'],['GENERAL'],['0']
+42,764,the battery life is stunning .,['BATTERY'],['GENERAL'],['2']
+43,645,i will never buy an other asus product .,['COMPANY'],['GENERAL'],['0']
+44,155,great functioning computer .,['LAPTOP'],['GENERAL'],['2']
+45,794,i would highly recommend this !,"['LAPTOP', 'LAPTOP']","['GENERAL', 'GENERAL']","['2', '2']"
+46,759,"but , it does work and is handy .",['LAPTOP'],['OPERATION_PERFORMANCE'],['2']
+47,795,"i love the backlight , it ' s not so bright as to blind you at night time .",['KEYBOARD'],['DESIGN_FEATURES'],['2']
+48,408,"i absolutely imagine chrome apps picking up drastically in quality and quantity now , since it seems like chrome os is really coming into its own this year .",['SOFTWARE'],['QUALITY'],['2']
+49,314,great product,['LAPTOP'],['GENERAL'],['2']
+50,773,keyboard is comfortable and screen is sharp .,"['KEYBOARD', 'DISPLAY']","['USABILITY', 'DESIGN_FEATURES']","['2', '2']"
+51,782,"i really love the laptop , it is exactly what i wanted and expected in the price range and i ' m super happy with it !","['LAPTOP', 'LAPTOP']","['GENERAL', 'PRICE']","['2', '2']"
+52,232,"this review might be dismissed as i am missing the ` ` verified purchase ` ` stamp , which is fair .",['SUPPORT'],['GENERAL'],['1']
+53,286,new built - in speakers .,['MULTIMEDIA_DEVICES'],['DESIGN_FEATURES'],['2']
+54,707,"nevertheless , i did have my own nitpicking issues with it but for the $ 250 price tag it launched with , it was well worth it .",['LAPTOP'],['PRICE'],['2']
+55,311,loving the sharp display and the track pad .,"['DISPLAY', 'KEYBOARD']","['QUALITY', 'GENERAL']","['2', '2']"
+56,772,it ' s really nice to have the touchscreen when using apps and i can seamlessly transition back to using the trackpad / keyboard depending on what i ' m doing .,['DISPLAY'],['USABILITY'],['2']
+57,223,"it was fine for a solid two days , from there on it has been nonstop , reset to factory settings .","['LAPTOP', 'LAPTOP', 'LAPTOP']","['OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['2', '2', '0']"
+58,393,it ' s not stated anywhere that ' s it ' s used .,['LAPTOP'],['GENERAL'],['0']
+59,28,"but i ' m getting into photography now , and it ' s terrible for loading , storing , and editing pictures .",['LAPTOP'],['OPERATION_PERFORMANCE'],['0']
+60,693,i find the display sharp and touch responsive to be quite excellent .,"['DISPLAY', 'KEYBOARD', 'KEYBOARD']","['DESIGN_FEATURES', 'OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['2', '2', '2']"
+61,796,"speaker ' s are ok but not amazing , i do like that they are mounted on the sides so they work well in laptop or tablet mode equally well .","['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']","['OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['2', '2']"
+62,30,the screen looked great .,['DISPLAY'],['GENERAL'],['2']
+63,329,the laptop arrived in excellent condition .,['SHIPPING'],['OPERATION_PERFORMANCE'],['2']
+64,243,"battery is good , display and keyboard are pretty great .","['BATTERY', 'DISPLAY', 'KEYBOARD']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
+65,440,i don ' t use it as much in tablet mode as i thought as it is a little heavy when in that configuration .,['LAPTOP'],['PORTABILITY'],['0']
+66,616,the computer runs decent but the keypad turns off every time the computer sleeps .,['KEYBOARD'],['DESIGN_FEATURES'],['0']
+67,731,i really like the keyboard .,['KEYBOARD'],['GENERAL'],['2']
+68,431,this is the problem with companies today .,['COMPANY'],['GENERAL'],['0']
+69,300,the best laptop i ' ve owned .,['LAPTOP'],['GENERAL'],['2']
+70,222,"after using the 3 : 2 aspect ratio , i think i prefer it to normal 16 : 9 , as far as chromebooks go .",['DISPLAY'],['DESIGN_FEATURES'],['1']
+71,679,it ' s a nice smooth surface so no tension when gliding across it .,"['LAPTOP', 'LAPTOP']","['DESIGN_FEATURES', 'DESIGN_FEATURES']","['2', '2']"
+72,582,the return procedure is so elaborate that i may decide to just write this purchase up as one big mistake .,['SUPPORT'],['GENERAL'],['0']
+73,106,this thing is still fantastic for what it is .,['LAPTOP'],['GENERAL'],['2']
+74,712,the screen is fantastic .,['DISPLAY'],['GENERAL'],['2']
+75,23,wi - fi slows down to crowl and speeds back up intermittently .,['PORTS'],['QUALITY'],['0']
+76,15,"i tried factory resetting after i updated the os , and it still drained 9 % over 8 hours .",['OS'],['GENERAL'],['1']
+77,252,"it has a nice , oversize trackpad that - like pretty much all chromebooks - is responsive and a pleasure to use .","['KEYBOARD', 'KEYBOARD', 'KEYBOARD', 'KEYBOARD']","['DESIGN_FEATURES', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE', 'OPERATION_PERFORMANCE']","['2', '2', '2', '2']"
+78,611,there ' s something wrong with my laptop .,['LAPTOP'],['GENERAL'],['0']
+79,356,battery : solid .,['BATTERY'],['QUALITY'],['2']
+80,337,great price and customer service,"['LAPTOP', 'SUPPORT']","['PRICE', 'GENERAL']","['2', '2']"
+81,515,i am extremely disappointed with this laptop .,['LAPTOP'],['GENERAL'],['0']
+82,804,"this chromebook is really one of the best you can own , in my opinion one of the best laptops in general !","['LAPTOP', 'LAPTOP']","['GENERAL', 'GENERAL']","['2', '2']"
+83,432,asus customer service sucks .,['SUPPORT'],['GENERAL'],['0']
+84,647,"- the screen looks pretty good , except when viewing anything dark .",['DISPLAY'],['GENERAL'],['2']
+85,708,"i found the display to be very vibrant , with excellent pixel density .","['DISPLAY', 'DISPLAY']","['DESIGN_FEATURES', 'DESIGN_FEATURES']","['2', '2']"
+86,443,"a chromebook does most of what i need , except gaiming .",['LAPTOP'],['GENERAL'],['2']
+87,151,amd a12 processor is quite fast when loading everything from an ssd .,['CPU'],['OPERATION_PERFORMANCE'],['2']
+88,450,the third one is ok but has a dead pixel .,['LAPTOP'],['GENERAL'],['1']
+89,733,"as a laptop , this is just the size i need .",['LAPTOP'],['DESIGN_FEATURES'],['2']
+90,262,so it appears the play store does not recognize this devise at this time .,['LAPTOP'],['USABILITY'],['0']
+91,758,the touchscreen works well .,['DISPLAY'],['OPERATION_PERFORMANCE'],['2']
+92,235,the screen does look good .,['DISPLAY'],['GENERAL'],['2']
+93,455,battery life is not good .,['BATTERY'],['GENERAL'],['0']
+94,189,cpu performance does well .,['CPU'],['OPERATION_PERFORMANCE'],['2']
+95,469,screen is average by 2017 standards .,['DISPLAY'],['QUALITY'],['1']
+96,744,give the asus flip 302 consideration .,['LAPTOP'],['GENERAL'],['2']
+97,418,i would like a quick fix but have not found one that would allow me to consider keeping this beautiful asus chromebook .,['LAPTOP'],['DESIGN_FEATURES'],['2']
+98,304,response is excellent .,['LAPTOP'],['OPERATION_PERFORMANCE'],['2']
+99,316,they put a lot of thought and work into making sure that the hardware and software work real well together .,"['COMPANY', 'HARDWARE', 'SOFTWARE']","['GENERAL', 'GENERAL', 'GENERAL']","['2', '2', '2']"
