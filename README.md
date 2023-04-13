@@ -2,7 +2,9 @@
 FYP Project on ABSA using GPT-3 by OpenAI
 
 ## Experiments
-All experiemnts can be found under experiments folder.
+All experiemnts and data can be found under experiments folder.
+
+in /data/output folder, exp_1 refers to few shots experiments, exp_2 for one shot domain-related, exp_3 for one shot domain-unrelated.
 
 ## WebApp
 Flask is used to develop the webapp and Plotly is used for generation of graphs.  
